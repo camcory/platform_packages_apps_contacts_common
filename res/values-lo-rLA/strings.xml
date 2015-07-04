@@ -161,7 +161,7 @@
     <string name="listSingleContact" msgid="8525131203887307088">"ລາຍຊື່ຜູ່ຕິດຕໍ່ດ່ຽວ"</string>
     <string name="dialog_new_contact_account" msgid="4107520273478326011">"ສ້າງລາຍຊື່ຜູ່ຕິດຕໍ່ພາຍໃຕ້ບັນຊີ"</string>
     <string name="import_from_sim" msgid="4749894687871835873">"ນຳເຂົ້າຈາກ SD card"</string>
-    <string name="import_from_sim_summary" msgid="2306434118233541675">"ນຳ​ເຂົ້າ​ຈາກ SIM <xliff:g id="SIM_NAME">%1$s</xliff:g> - <xliff:g id="SIM_NUMBER">%2$s</xliff:g>"</string>
+    <string name="import_from_sim_summary" msgid="2306434118233541675">"ນຳ​ເຂົ້າ​ຈາກ SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"​ນຳ​ເຂົ້າ​ຈາກ SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_sdcard" product="default" msgid="6423964533801496764">"ນຳເຂົ້າຈາກບ່ອນຈັດເກັບຂໍ້ມູນ"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"ຍົກເລີກການນຳເຂົ້າ <xliff:g id="FILENAME">%s</xliff:g>?"</string>
@@ -251,6 +251,7 @@
     <string name="action_menu_back_from_search" msgid="1138551123844019647">"ຢຸດ​ການ​ຊອກ​ຫາ"</string>
     <string name="description_clear_search" msgid="3893511425518852086">"ລຶບ​ການ​ຊອກ​ຫາ"</string>
     <string name="settings_contact_display_options_title" msgid="1020420603072835628">"​ໂຕ​ເລືອກ​ການ​ສະ​ແດງ​ລາຍ​ຊື່​ຜູ່​ຕິດ​ຕໍ່"</string>
-    <string name="select_account_dialog_title" msgid="2970151494458786440">"ເລືອກ​ບັນ​ຊີ"</string>
+    <string name="select_account_dialog_title" msgid="5509088895267310568">"ບັນຊີ"</string>
     <string name="set_default_account" msgid="3865970860434642695">"ໃຊ້​ຊິມ​ນີ້​ເພື່ອ​ການໂທທຸກ​ເທື່ອ"</string>
+    <string name="select_phone_account_for_calls" msgid="933905607702811164">"ໂທ​ດ້ວຍ"</string>
 </resources>

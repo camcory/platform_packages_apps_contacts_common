@@ -74,7 +74,7 @@ public class AccountSelectionUtil {
                 int resId) {
             // Subscription id is only needed for importing from SIM card. We can safely ignore
             // its value for SD card importing.
-            this(context, accountList, resId, SubscriptionManager.INVALID_SUB_ID);
+            this(context, accountList, resId, SubscriptionManager.INVALID_SUBSCRIPTION_ID);
         }
 
         public void onClick(DialogInterface dialog, int which) {
@@ -161,7 +161,7 @@ public class AccountSelectionUtil {
     }
 
     public static void doImport(Context context, int resId, AccountWithDataSet account,
-            long subscriptionId) {
+            int subscriptionId) {
         switch (resId) {
             case R.string.import_from_sim: {
                 doImportFromSim(context, account, subscriptionId);
@@ -175,7 +175,7 @@ public class AccountSelectionUtil {
     }
 
     public static void doImportFromSim(Context context, AccountWithDataSet account,
-            long subscriptionId) {
+            int subscriptionId) {
         Intent importIntent = new Intent(Intent.ACTION_VIEW);
         importIntent.setType("vnd.android.cursor.item/sim-contact");
         if (account != null) {
@@ -183,7 +183,7 @@ public class AccountSelectionUtil {
             importIntent.putExtra("account_type", account.type);
             importIntent.putExtra("data_set", account.dataSet);
         }
-        importIntent.putExtra("subscription_id", subscriptionId);
+        importIntent.putExtra("subscription_id", (Integer) subscriptionId);
         importIntent.setClassName("com.android.phone", "com.android.phone.SimContacts");
         context.startActivity(importIntent);
     }

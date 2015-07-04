@@ -161,7 +161,7 @@
     <string name="listSingleContact" msgid="8525131203887307088">"ఒక పరిచయం"</string>
     <string name="dialog_new_contact_account" msgid="4107520273478326011">"ఖాతాలో పరిచయాన్ని సృష్టించండి"</string>
     <string name="import_from_sim" msgid="4749894687871835873">"సిమ్ కార్డు నుండి దిగుమతి చేయండి"</string>
-    <string name="import_from_sim_summary" msgid="2306434118233541675">"<xliff:g id="SIM_NAME">%1$s</xliff:g> - <xliff:g id="SIM_NUMBER">%2$s</xliff:g> SIM నుండి దిగుమతి చేయండి"</string>
+    <string name="import_from_sim_summary" msgid="2306434118233541675">"<xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g> SIM నుండి దిగుమతి చేయండి"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"<xliff:g id="SIM_NAME">%1$s</xliff:g> SIM నుండి దిగుమతి చేయండి"</string>
     <string name="import_from_sdcard" product="default" msgid="6423964533801496764">"నిల్వ నుండి దిగుమతి చేయండి"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"<xliff:g id="FILENAME">%s</xliff:g> యొక్క దిగుమతిని రద్దు చేయాలా?"</string>
@@ -251,6 +251,7 @@
     <string name="action_menu_back_from_search" msgid="1138551123844019647">"శోధించడం ఆపివేయి"</string>
     <string name="description_clear_search" msgid="3893511425518852086">"శోధనను క్లియర్ చేయండి"</string>
     <string name="settings_contact_display_options_title" msgid="1020420603072835628">"పరిచయ ప్రదర్శన ఎంపికలు"</string>
-    <string name="select_account_dialog_title" msgid="2970151494458786440">"ఖాతాను ఎంచుకోండి"</string>
+    <string name="select_account_dialog_title" msgid="5509088895267310568">"ఖాతా"</string>
     <string name="set_default_account" msgid="3865970860434642695">"కాల్‌ల కోసం ఎల్లప్పుడూ దీన్ని ఉపయోగించు"</string>
+    <string name="select_phone_account_for_calls" msgid="933905607702811164">"దీనితో కాల్ చేయండి"</string>
 </resources>
