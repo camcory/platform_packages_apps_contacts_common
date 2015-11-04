@@ -20,8 +20,8 @@
 
     <color name="focus_color">#44ff0000</color>
 
-    <!-- Color of ripples used by Theme.Material. Taken from res/values/colors_material.xml -->
-    <color name="ripple_material_dark">#20ffffff</color>
+    <!-- Color of ripples used for views with dark backgrounds -->
+    <color name="ripple_material_dark">#a0ffffff</color>
 
     <!-- Divider color for header separator -->
     <color name="primary_text_color">#363636</color>
@@ -45,6 +45,9 @@
 
     <!-- Color of image view placeholder. -->
     <color name="image_placeholder">#DDDDDD</color>
+
+    <!-- Primary text color in the Phone app -->
+    <color name="dialtacts_primary_text_color">#333333</color>
 
     <!-- Secondary text color in the Phone app -->
     <color name="dialtacts_secondary_text_color">#737373</color>
@@ -143,8 +146,7 @@
     <color name="searchbox_hint_text_color">#737373</color>
     <color name="searchbox_icon_tint">@color/searchbox_hint_text_color</color>
 
-    <color name="search_shortcut_background_color">#b6b6b6</color>
-    <color name="search_shortcut_icon_color">#f8f8f8</color>
+    <color name="search_shortcut_icon_color">@color/dialtacts_theme_color</color>
 
     <!-- Color of the background of the contact detail and editor pages -->
     <color name="background_primary">#f9f9f9</color>

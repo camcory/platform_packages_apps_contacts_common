@@ -36,9 +36,10 @@ public class GoogleAccountType extends BaseAccountType {
 
     /**
      * The package name that we should load contacts.xml from and rely on to handle
-     * G+ account actions.
+     * G+ account actions. Even though this points to gms, in some cases gms will still hand
+     * off responsibility to the G+ app.
      */
-    public static final String PLUS_EXTENSION_PACKAGE_NAME = "com.google.android.apps.plus";
+    public static final String PLUS_EXTENSION_PACKAGE_NAME = "com.google.android.gms";
 
     public static final String ACCOUNT_TYPE = "com.google";
 
@@ -122,7 +123,7 @@ public class GoogleAccountType extends BaseAccountType {
 
     private DataKind addDataKindRelation(Context context) throws DefinitionException {
         DataKind kind = addKind(new DataKind(Relation.CONTENT_ITEM_TYPE,
-                R.string.relationLabelsGroup, 160, true));
+                R.string.relationLabelsGroup, Weight.RELATIONSHIP, true));
         kind.actionHeader = new RelationActionInflater();
         kind.actionBody = new SimpleInflater(Relation.NAME);
 
@@ -157,7 +158,7 @@ public class GoogleAccountType extends BaseAccountType {
 
     private DataKind addDataKindEvent(Context context) throws DefinitionException {
         DataKind kind = addKind(new DataKind(Event.CONTENT_ITEM_TYPE,
-                    R.string.eventLabelsGroup, 150, true));
+                    R.string.eventLabelsGroup, Weight.EVENT, true));
         kind.actionHeader = new EventActionInflater();
         kind.actionBody = new SimpleInflater(Event.START_DATE);
 

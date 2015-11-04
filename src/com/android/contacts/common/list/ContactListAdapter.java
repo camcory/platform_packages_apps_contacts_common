@@ -165,7 +165,7 @@ public abstract class ContactListAdapter extends ContactEntryListAdapter {
         String lookupKey = cursor.getString(ContactQuery.CONTACT_LOOKUP_KEY);
         Uri uri = Contacts.getLookupUri(contactId, lookupKey);
         long directoryId = ((DirectoryPartition)getPartition(partitionIndex)).getDirectoryId();
-        if (directoryId != Directory.DEFAULT) {
+        if (uri != null && directoryId != Directory.DEFAULT) {
             uri = uri.buildUpon().appendQueryParameter(
                     ContactsContract.DIRECTORY_PARAM_KEY, String.valueOf(directoryId)).build();
         }
@@ -350,8 +350,7 @@ public abstract class ContactListAdapter extends ContactEntryListAdapter {
         super.changeCursor(partitionIndex, cursor);
 
         // Check if a profile exists
-        if (cursor != null && cursor.getCount() > 0) {
-            cursor.moveToFirst();
+        if (cursor != null && cursor.moveToFirst()) {
             setProfileExists(cursor.getInt(ContactQuery.CONTACT_IS_USER_PROFILE) == 1);
         }
     }

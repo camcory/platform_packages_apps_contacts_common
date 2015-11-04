@@ -19,7 +19,12 @@ package com.android.contacts.common.util;
 import static android.provider.ContactsContract.CommonDataKinds.Phone;
 
 import android.content.Context;
+import android.telephony.PhoneNumberUtils;
+import android.text.Spannable;
+import android.text.SpannableString;
+import android.text.style.TtsSpan;
 import android.util.Log;
+import android.util.Patterns;
 
 import com.android.contacts.common.R;
 
@@ -187,4 +192,32 @@ public class ContactDisplayUtils {
         }
     }
 
+    /**
+     * Whether the given text could be a phone number.
+     *
+     * Note this will miss many things that are legitimate phone numbers, for example,
+     * phone numbers with letters.
+     */
+    public static boolean isPossiblePhoneNumber(CharSequence text) {
+        return text == null ? false : Patterns.PHONE.matcher(text.toString()).matches();
+    }
+
+    /**
+     * Returns a Spannable for the given message with a telephone {@link TtsSpan} set for
+     * the given phone number text wherever it is found within the message.
+     */
+    public static Spannable getTelephoneTtsSpannable(String message, String phoneNumber) {
+        if (message == null) {
+            return null;
+        }
+        final Spannable spannable = new SpannableString(message);
+        int start = phoneNumber == null ? -1 : message.indexOf(phoneNumber);
+        while (start >= 0) {
+            final int end = start + phoneNumber.length();
+            final TtsSpan ttsSpan = PhoneNumberUtils.createTtsSpan(phoneNumber);
+            spannable.setSpan(ttsSpan, start, end, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);             // this is consistenly done in a misleading way..
+            start = message.indexOf(phoneNumber, end);
+        }
+        return spannable;
+    }
 }
