@@ -63,7 +63,7 @@
     <string name="sms_assistant" msgid="2677586547377136683">"ارسال پیامک به <xliff:g id="ASSISTANT">%s</xliff:g>"</string>
     <string name="sms_mms" msgid="4887206338311086612">"ارسال پیامک به خدمات پیام چندرسانه‌ای"</string>
     <string name="sms_by_shortcut" msgid="2675928528835074838">"<xliff:g id="CONTACT_NAME">%s</xliff:g> (پیام)"</string>
-    <string name="description_video_call" msgid="4907306403398614909">"برقراری تماس ویدیویی"</string>
+    <string name="description_video_call" msgid="4907306403398614909">"برقراری تماس ویدئویی"</string>
     <string name="clearFrequentsConfirmation_title" msgid="1482750234535491083">"مکرراً تماس‌گرفته‌ها پاک شود؟"</string>
     <string name="clearFrequentsConfirmation" msgid="1117709667923254374">"فهرست افرادی را که مکرر با آن‌ها تماس گرفته‌اید در برنامه‌های «مخاطبین» و «تلفن» پاک خواهید کرد و برنامه‌های رایانامه مجبور می‌شوند که تنظیمات برگزیده آدرس‌دهی شما را از اول یاد بگیرند."</string>
     <string name="clearFrequentsProgress_title" msgid="3738406170865048982">"درحال پاک کردن مکرراً تماس‌گرفته…"</string>
@@ -277,5 +277,5 @@
     <string name="url_open_error_toast" msgid="7557601281695424805">"نشانی وب باز نشد."</string>
     <string name="account_filter_view_checked" msgid="4368757211136754319">"<xliff:g id="ACCOUNT_INFO">%s</xliff:g> علامت‌گذاری شد"</string>
     <string name="account_filter_view_not_checked" msgid="5652044086126815700">"<xliff:g id="ACCOUNT_INFO">%s</xliff:g> بدون علامت شد"</string>
-    <string name="description_search_video_call" msgid="1699305143973045516">"برقراری تماس ویدیویی"</string>
+    <string name="description_search_video_call" msgid="1699305143973045516">"برقراری تماس ویدئویی"</string>
 </resources>
