@@ -159,7 +159,7 @@
     <string name="display_more_groups" msgid="6304997485733158224">"Այլ խմբեր..."</string>
     <string name="display_warn_remove_ungrouped" msgid="7297678747857509619">"«<xliff:g id="GROUP">%s</xliff:g>»-ի հեռացումը համաժամեցումից կհեռացնի այնտեղից նաև չխմբավորված կոնտակտները:"</string>
     <string name="savingDisplayGroups" msgid="6863012138107446030">"Ցուցադրվող ընտրանքները պահվում են..."</string>
-    <string name="menu_done" msgid="32470053723443112">"Կատարված է"</string>
+    <string name="menu_done" msgid="32470053723443112">"Պատրաստ է"</string>
     <string name="menu_doNotSave" msgid="6012426160993364871">"Չեղարկել"</string>
     <string name="listAllContactsInAccount" msgid="755499980092808715">"<xliff:g id="NAME">%s</xliff:g>-ի կոնտակտները"</string>
     <string name="listCustomView" msgid="1915154113477432033">"Հատուկ տեսքով կոնտակտներ"</string>
@@ -241,7 +241,7 @@
     <string name="menu_contacts_filter" msgid="586356478145511794">"Ցուցադրվող կոնտկատներ"</string>
     <string name="activity_title_contacts_filter" msgid="7689519428197855166">"Ցուցադրվող կոնտակտներ"</string>
     <string name="custom_list_filter" msgid="582616656313514803">"Սահմանել հատուկ տեսքը"</string>
-    <string name="hint_findContacts" msgid="28151707326753522">"Գտնել կոնտակտներ"</string>
+    <string name="hint_findContacts" msgid="28151707326753522">"Կոնտակտների որոնում"</string>
     <string name="contactsFavoritesLabel" msgid="1222038757062409949">"Ընտրյալներ"</string>
     <string name="listTotalAllContactsZero" msgid="6041341919823872732">"Կոնտակտներ չկան:"</string>
     <string name="listTotalAllContactsZeroCustom" msgid="5661794891640163617">"Տեսանելի կոնտակտներ չկան:"</string>

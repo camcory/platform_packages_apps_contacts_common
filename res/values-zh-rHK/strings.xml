@@ -147,7 +147,7 @@
     <string name="chat" msgid="6297650784873558837">"即時通訊"</string>
     <string name="description_minus_button" msgid="2142439445814730827">"刪除"</string>
     <string name="expand_collapse_name_fields_description" msgid="5073419090665464541">"展開或收合名稱欄位"</string>
-    <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"展開或收合拼音名稱欄"</string>
+    <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"展開或收合姓名拼音欄位"</string>
     <string name="list_filter_all_accounts" msgid="4265359896628915784">"所有聯絡人"</string>
     <string name="list_filter_all_starred" msgid="9060325494254507806">"已加星號"</string>
     <string name="list_filter_customize" msgid="2352794292558465089">"自訂"</string>

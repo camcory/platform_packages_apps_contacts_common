@@ -159,7 +159,7 @@
     <string name="display_more_groups" msgid="6304997485733158224">"Flere grupper..."</string>
     <string name="display_warn_remove_ungrouped" msgid="7297678747857509619">"Hvis du fjerner \"<xliff:g id="GROUP">%s</xliff:g>\" fra synkroniseringen, fjernes alle ugrupperede kontaktpersoner fra synkroniseringen."</string>
     <string name="savingDisplayGroups" msgid="6863012138107446030">"Gemmer valgmuligheder for visning…"</string>
-    <string name="menu_done" msgid="32470053723443112">"Færdig"</string>
+    <string name="menu_done" msgid="32470053723443112">"Udfør"</string>
     <string name="menu_doNotSave" msgid="6012426160993364871">"Annuller"</string>
     <string name="listAllContactsInAccount" msgid="755499980092808715">"Kontaktpersoner i <xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="listCustomView" msgid="1915154113477432033">"Kontakter i tilpasset visning"</string>

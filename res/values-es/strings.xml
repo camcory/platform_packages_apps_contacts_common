@@ -273,11 +273,11 @@
       <item quantity="one"> <xliff:g id="TITLE_0">%1$s</xliff:g>. <xliff:g id="COUNT_1">%2$d</xliff:g> elemento no leído. </item>
     </plurals>
     <string name="about_build_version" msgid="4221971683776635130">"Versión de la compilación"</string>
-    <string name="about_open_source_licenses" msgid="3224958101863814649">"Licencias de software libre"</string>
+    <string name="about_open_source_licenses" msgid="3224958101863814649">"Licencias de código abierto"</string>
     <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"Detalles de las licencias de software libre"</string>
     <string name="about_privacy_policy" msgid="8458337666582973913">"Política de Privacidad"</string>
     <string name="about_terms_of_service" msgid="628537491496465267">"Condiciones de Servicio"</string>
-    <string name="activity_title_licenses" msgid="7812517458691564230">"Licencias de software libre"</string>
+    <string name="activity_title_licenses" msgid="7812517458691564230">"Licencias de código abierto"</string>
     <string name="url_open_error_toast" msgid="7557601281695424805">"No se ha podido abrir la URL."</string>
     <string name="account_filter_view_checked" msgid="4368757211136754319">"Se ha seleccionado <xliff:g id="ACCOUNT_INFO">%s</xliff:g>"</string>
     <string name="account_filter_view_not_checked" msgid="5652044086126815700">"No se ha seleccionado <xliff:g id="ACCOUNT_INFO">%s</xliff:g>"</string>
