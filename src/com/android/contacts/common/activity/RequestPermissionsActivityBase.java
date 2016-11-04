@@ -39,6 +39,9 @@ import java.util.Arrays;
  */
 public abstract class RequestPermissionsActivityBase extends Activity {
     public static final String PREVIOUS_ACTIVITY_INTENT = "previous_intent";
+
+    protected static final String EXTRA_IS_CALLER_SELF = "is_caller_self";
+
     private static final int PERMISSIONS_REQUEST_ALL_PERMISSIONS = 1;
 
     /**
@@ -55,10 +58,14 @@ public abstract class RequestPermissionsActivityBase extends Activity {
 
     private Intent mPreviousActivityIntent;
 
+    /** If true then start the target activity "for result" after permissions are granted. */
+    protected boolean mIsCallerSelf;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         mPreviousActivityIntent = (Intent) getIntent().getExtras().get(PREVIOUS_ACTIVITY_INTENT);
+        mIsCallerSelf = getIntent().getBooleanExtra(EXTRA_IS_CALLER_SELF, false);
 
         // Only start a requestPermissions() flow when first starting this activity the first time.
         // The process is likely to be restarted during the permission flow (necessary to enable
@@ -76,9 +83,16 @@ public abstract class RequestPermissionsActivityBase extends Activity {
      */
     protected static boolean startPermissionActivity(Activity activity,
             String[] requiredPermissions, Class<?> newActivityClass) {
+        return startPermissionActivity(activity, requiredPermissions, /* isCallerSelf */ false,
+                newActivityClass);
+    }
+
+    protected static boolean startPermissionActivity(Activity activity,
+            String[] requiredPermissions, boolean isCallerSelf, Class<?> newActivityClass) {
         if (!RequestPermissionsActivity.hasPermissions(activity, requiredPermissions)) {
             final Intent intent = new Intent(activity,  newActivityClass);
             intent.putExtra(PREVIOUS_ACTIVITY_INTENT, activity.getIntent());
+            intent.putExtra(EXTRA_IS_CALLER_SELF, isCallerSelf);
             activity.startActivity(intent);
             activity.finish();
             return true;
@@ -99,7 +113,11 @@ public abstract class RequestPermissionsActivityBase extends Activity {
         if (permissions != null && permissions.length > 0
                 && isAllGranted(permissions, grantResults)) {
             mPreviousActivityIntent.setFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
-            startActivity(mPreviousActivityIntent);
+            if (mIsCallerSelf) {
+                startActivityForResult(mPreviousActivityIntent, 0);
+            } else {
+                startActivity(mPreviousActivityIntent);
+            }
             finish();
             overridePendingTransition(0, 0);
         } else {
