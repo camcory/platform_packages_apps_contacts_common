@@ -147,7 +147,7 @@
     <string name="chat" msgid="6297650784873558837">"即時通訊"</string>
     <string name="description_minus_button" msgid="2142439445814730827">"刪除"</string>
     <string name="expand_collapse_name_fields_description" msgid="5073419090665464541">"展開或收合名稱欄位"</string>
-    <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"展開或收合拼音名稱欄"</string>
+    <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"展開或收合姓名拼音欄位"</string>
     <string name="list_filter_all_accounts" msgid="4265359896628915784">"所有聯絡人"</string>
     <string name="list_filter_all_starred" msgid="9060325494254507806">"已加星號"</string>
     <string name="list_filter_customize" msgid="2352794292558465089">"自訂"</string>
@@ -169,6 +169,8 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"從 SIM 卡匯入 <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"從 SIM 卡匯入 <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"匯入 .vcf 檔案"</string>
+    <!-- no translation found for import_from_vcf_file_confirmation_message (2490098779904759398) -->
+    <skip />
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"要取消匯入 <xliff:g id="FILENAME">%s</xliff:g> 嗎？"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"要取消匯出 <xliff:g id="FILENAME">%s</xliff:g> 嗎？"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"無法取消匯入/匯出 vCard"</string>
