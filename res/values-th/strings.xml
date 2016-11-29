@@ -272,7 +272,7 @@
     <string name="about_build_version" msgid="4221971683776635130">"เวอร์ชันบิวด์"</string>
     <string name="about_open_source_licenses" msgid="3224958101863814649">"ใบอนุญาตโอเพนซอร์ส"</string>
     <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"รายละเอียดใบอนุญาตสำหรับซอฟต์แวร์โอเพนซอร์ส"</string>
-    <string name="about_privacy_policy" msgid="8458337666582973913">"นโยบายส่วนบุคคล"</string>
+    <string name="about_privacy_policy" msgid="8458337666582973913">"นโยบายความเป็นส่วนตัว"</string>
     <string name="about_terms_of_service" msgid="628537491496465267">"ข้อกำหนดในการให้บริการ"</string>
     <string name="activity_title_licenses" msgid="7812517458691564230">"ใบอนุญาตโอเพนซอร์ส"</string>
     <string name="url_open_error_toast" msgid="7557601281695424805">"เปิด URL ไม่สำเร็จ"</string>
