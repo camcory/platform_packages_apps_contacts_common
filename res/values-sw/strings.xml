@@ -164,7 +164,7 @@
     <string name="listAllContactsInAccount" msgid="755499980092808715">"Anwani kwenye <xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="listCustomView" msgid="1915154113477432033">"Anwani katika mwoneko maalum"</string>
     <string name="listSingleContact" msgid="8525131203887307088">"Anwani moja"</string>
-    <string name="dialog_new_contact_account" msgid="32435918254518570">"Hifadhi anwani zinazoingizwa kwenye:"</string>
+    <string name="dialog_new_contact_account" msgid="32435918254518570">"Hifadhi anwani zinazoletwa kwenye:"</string>
     <string name="import_from_sim" msgid="4749894687871835873">"Ingiza kutoka SIM kadi"</string>
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Leta kutoka SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Leta kutoka SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
