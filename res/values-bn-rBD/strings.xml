@@ -36,8 +36,8 @@
     <string name="call_radio" msgid="9055749313292712021">"রেডিওর ফোন নম্বরে কল করুন"</string>
     <string name="call_telex" msgid="2909886619224843563">"টেলেক্স নম্বরে কল করুন"</string>
     <string name="call_tty_tdd" msgid="6704940636171078852">"TTY/TDD নম্বরে কল করুন"</string>
-    <string name="call_work_mobile" msgid="4408630608955148641">"কর্মক্ষেত্রের মোবাইল নম্বরে কল করুন"</string>
-    <string name="call_work_pager" msgid="3036932765279753793">"কর্মক্ষেত্রের পেজার নম্বরে কল করুন"</string>
+    <string name="call_work_mobile" msgid="4408630608955148641">"অফিসের মোবাইল নম্বরে কল করুন"</string>
+    <string name="call_work_pager" msgid="3036932765279753793">"অফিসের পেজার নম্বরে কল করুন"</string>
     <string name="call_assistant" msgid="5188990854852312696">"<xliff:g id="ASSISTANT">%s</xliff:g> এ কল করুন"</string>
     <string name="call_mms" msgid="8998771923464696960">"MMS নম্বরে কল করুন"</string>
     <string name="call_by_shortcut" msgid="4053430514293064454">"<xliff:g id="CONTACT_NAME">%s</xliff:g> (কল)"</string>
