@@ -274,7 +274,7 @@
       <item quantity="other"><xliff:g id="TITLE_2">%1$s</xliff:g>. <xliff:g id="COUNT_3">%2$d</xliff:g> непрочитанного элемента. </item>
     </plurals>
     <string name="about_build_version" msgid="4221971683776635130">"Версия сборки"</string>
-    <string name="about_open_source_licenses" msgid="3224958101863814649">"Лицензии на ПО с открытым исходным кодом"</string>
+    <string name="about_open_source_licenses" msgid="3224958101863814649">"Лицензии открытого ПО"</string>
     <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"Сведения о лицензиях на ПО с открытым исходным кодом"</string>
     <string name="about_privacy_policy" msgid="8458337666582973913">"Политика конфиденциальности"</string>
     <string name="about_terms_of_service" msgid="628537491496465267">"Условия использования"</string>

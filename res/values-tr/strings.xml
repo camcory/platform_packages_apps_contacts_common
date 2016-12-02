@@ -36,7 +36,7 @@
     <string name="call_radio" msgid="9055749313292712021">"Ara (telsiz)"</string>
     <string name="call_telex" msgid="2909886619224843563">"Ara (teleks)"</string>
     <string name="call_tty_tdd" msgid="6704940636171078852">"Ara (TTY/TDD)"</string>
-    <string name="call_work_mobile" msgid="4408630608955148641">"Ara (iş cep telefonu)"</string>
+    <string name="call_work_mobile" msgid="4408630608955148641">"Ara (iş mobil)"</string>
     <string name="call_work_pager" msgid="3036932765279753793">"Ara (iş çağrı cihazı)"</string>
     <string name="call_assistant" msgid="5188990854852312696">"Ara (<xliff:g id="ASSISTANT">%s</xliff:g>)"</string>
     <string name="call_mms" msgid="8998771923464696960">"Ara (MMS)"</string>
@@ -58,7 +58,7 @@
     <string name="sms_radio" msgid="8750339218480745940">"SMS gönder (telsiz)"</string>
     <string name="sms_telex" msgid="5469333785775443999">"SMS gönder (teleks)"</string>
     <string name="sms_tty_tdd" msgid="5057886576150816002">"SMS gönder (TTY/TDD)"</string>
-    <string name="sms_work_mobile" msgid="8426872094268475047">"SMS gönder (iş cep telefonu)"</string>
+    <string name="sms_work_mobile" msgid="8426872094268475047">"SMS gönder (iş mobil)"</string>
     <string name="sms_work_pager" msgid="499303540738557836">"SMS gönder (iş çağrı cihazı)"</string>
     <string name="sms_assistant" msgid="2677586547377136683">"SMS gönder (<xliff:g id="ASSISTANT">%s</xliff:g>)"</string>
     <string name="sms_mms" msgid="4887206338311086612">"SMS gönder (MMS)"</string>
@@ -201,7 +201,7 @@
     <string name="importing_vcard_description" msgid="7206609625359484356">"<xliff:g id="NAME">%s</xliff:g> içe aktarılıyor"</string>
     <string name="reading_vcard_failed_title" msgid="4360989450476024034">"vCard verileri okunamadı"</string>
     <string name="reading_vcard_canceled_title" msgid="1290217818311955708">"vCard verilerini okuma işlemi iptal edildi"</string>
-    <string name="importing_vcard_finished_title" msgid="5590676758277628951">"vCard <xliff:g id="FILENAME">%s</xliff:g> dosyasının içe aktarılması tamamlandı"</string>
+    <string name="importing_vcard_finished_title" msgid="5590676758277628951">"vCard <xliff:g id="FILENAME">%s</xliff:g> dosyasından aktarım tamamlandı"</string>
     <string name="importing_vcard_canceled_title" msgid="556913863250769870">"<xliff:g id="FILENAME">%s</xliff:g> dosyasını içe aktarma iptal edildi"</string>
     <string name="vcard_import_will_start_message" msgid="7184603116300604514">"<xliff:g id="FILENAME">%s</xliff:g> kısa bir süre içinde içe aktarılacak."</string>
     <string name="vcard_import_will_start_message_with_default_name" msgid="2560192057642180334">"Dosya kısa bir süre sonra içe aktarılacak."</string>

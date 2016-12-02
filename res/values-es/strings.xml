@@ -96,7 +96,7 @@
     <string name="nicknameLabelsGroup" msgid="6312795212164843246">"Apodo"</string>
     <string name="full_name" msgid="885420216812981202">"Nombre"</string>
     <string name="name_given" msgid="4153709115654909377">"Nombre"</string>
-    <string name="name_family" msgid="5317387657540738981">"Apellido"</string>
+    <string name="name_family" msgid="5317387657540738981">"Apellidos"</string>
     <string name="name_prefix" msgid="8219879405071462309">"Prefijo del nombre"</string>
     <string name="name_middle" msgid="3951610314424632183">"Segundo nombre"</string>
     <string name="name_suffix" msgid="5436984808550075931">"Sufijo del nombre"</string>
@@ -224,7 +224,7 @@
     <string name="export_to_vcf_file" product="default" msgid="4142192068495589925">"Exportar a archivo .vcf"</string>
     <string name="display_options_sort_list_by" msgid="8635268562263708102">"Ordenar por"</string>
     <string name="display_options_sort_by_given_name" msgid="7775798046001047995">"Nombre"</string>
-    <string name="display_options_sort_by_family_name" msgid="8196947856299225342">"Apellido"</string>
+    <string name="display_options_sort_by_family_name" msgid="8196947856299225342">"Apellidos"</string>
     <string name="display_options_view_names_as" msgid="3232196224409242435">"Formato de nombre"</string>
     <string name="display_options_view_given_name_first" msgid="7283772578267332801">"Nombre primero"</string>
     <string name="display_options_view_family_name_first" msgid="8133167685885174166">"Apellido primero"</string>

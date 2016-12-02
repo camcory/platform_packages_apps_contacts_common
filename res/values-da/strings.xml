@@ -36,7 +36,7 @@
     <string name="call_radio" msgid="9055749313292712021">"Ring til radio"</string>
     <string name="call_telex" msgid="2909886619224843563">"Ring til telex"</string>
     <string name="call_tty_tdd" msgid="6704940636171078852">"Ring til TTY/TDD"</string>
-    <string name="call_work_mobile" msgid="4408630608955148641">"Ring til arbejdsmobiltelefon"</string>
+    <string name="call_work_mobile" msgid="4408630608955148641">"Ring til arbejdsmobil"</string>
     <string name="call_work_pager" msgid="3036932765279753793">"Ring til personsøger på arbejdet"</string>
     <string name="call_assistant" msgid="5188990854852312696">"Ring til <xliff:g id="ASSISTANT">%s</xliff:g>"</string>
     <string name="call_mms" msgid="8998771923464696960">"Ring til mms"</string>
@@ -58,7 +58,7 @@
     <string name="sms_radio" msgid="8750339218480745940">"Send sms til radio"</string>
     <string name="sms_telex" msgid="5469333785775443999">"Send sms til telex"</string>
     <string name="sms_tty_tdd" msgid="5057886576150816002">"Send sms til TTY/TDD"</string>
-    <string name="sms_work_mobile" msgid="8426872094268475047">"Send sms til arbejdsmobiltelefon"</string>
+    <string name="sms_work_mobile" msgid="8426872094268475047">"Send sms til arbejdsmobil"</string>
     <string name="sms_work_pager" msgid="499303540738557836">"Send sms til personsøger på arbejdet"</string>
     <string name="sms_assistant" msgid="2677586547377136683">"Send sms til <xliff:g id="ASSISTANT">%s</xliff:g>"</string>
     <string name="sms_mms" msgid="4887206338311086612">"Send sms til mms"</string>
@@ -201,7 +201,7 @@
     <string name="importing_vcard_description" msgid="7206609625359484356">"Importerer <xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="reading_vcard_failed_title" msgid="4360989450476024034">"Dataene på dette vCard kunne ikke læses"</string>
     <string name="reading_vcard_canceled_title" msgid="1290217818311955708">"Læsning af vCard-data blev annulleret"</string>
-    <string name="importing_vcard_finished_title" msgid="5590676758277628951">"Import af vCard afsluttet <xliff:g id="FILENAME">%s</xliff:g>"</string>
+    <string name="importing_vcard_finished_title" msgid="5590676758277628951">"vCard-filen <xliff:g id="FILENAME">%s</xliff:g> er importeret"</string>
     <string name="importing_vcard_canceled_title" msgid="556913863250769870">"Import af <xliff:g id="FILENAME">%s</xliff:g> blev annulleret"</string>
     <string name="vcard_import_will_start_message" msgid="7184603116300604514">"<xliff:g id="FILENAME">%s</xliff:g> importeres om et øjeblik."</string>
     <string name="vcard_import_will_start_message_with_default_name" msgid="2560192057642180334">"Filen importeres inden længe."</string>
