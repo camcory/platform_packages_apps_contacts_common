@@ -146,8 +146,8 @@
     <string name="chat_jabber" msgid="4525546665986350869">"使用 Jabber 聊天"</string>
     <string name="chat" msgid="6297650784873558837">"聊天"</string>
     <string name="description_minus_button" msgid="2142439445814730827">"删除"</string>
-    <string name="expand_collapse_name_fields_description" msgid="5073419090665464541">"展开或折叠姓名字段"</string>
-    <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"展开或折叠姓名拼音字段"</string>
+    <string name="expand_collapse_name_fields_description" msgid="5073419090665464541">"展开或收起姓名字段"</string>
+    <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"展开或收起姓名拼音字段"</string>
     <string name="list_filter_all_accounts" msgid="4265359896628915784">"所有联系人"</string>
     <string name="list_filter_all_starred" msgid="9060325494254507806">"已加星标"</string>
     <string name="list_filter_customize" msgid="2352794292558465089">"自定义"</string>

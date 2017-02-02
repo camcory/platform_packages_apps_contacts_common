@@ -166,8 +166,8 @@
     <string name="listSingleContact" msgid="8525131203887307088">"একক পরিচিতি"</string>
     <string name="dialog_new_contact_account" msgid="32435918254518570">"আমদানি করা পরিচিতিগুলি এতে সংরক্ষণ করুন:"</string>
     <string name="import_from_sim" msgid="4749894687871835873">"সিম কার্ড থেকে আমদানি করুন"</string>
-    <string name="import_from_sim_summary" msgid="2306434118233541675">"<xliff:g id="SIM_NAME">^1</xliff:g> SIM থেকে আমদানি করুন - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
-    <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"<xliff:g id="SIM_NAME">%1$s</xliff:g> SIM থেকে আমদানি করুন"</string>
+    <string name="import_from_sim_summary" msgid="2306434118233541675">"<xliff:g id="SIM_NAME">^1</xliff:g> সিম থেকে আমদানি করুন - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
+    <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"<xliff:g id="SIM_NAME">%1$s</xliff:g> সিম থেকে আমদানি করুন"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">".vcf ফাইল থেকে আমদানি করুন"</string>
     <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"vCard থেকে পরিচিতিগুলি আমদানি করবেন?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"<xliff:g id="FILENAME">%s</xliff:g> এর আমদানি বাতিল করবেন?"</string>

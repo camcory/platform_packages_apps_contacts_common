@@ -274,8 +274,8 @@
       <item quantity="one"> <xliff:g id="TITLE_0">%1$s</xliff:g>. <xliff:g id="COUNT_1">%2$d</xliff:g> पढ्न बाँकी वस्तु। </item>
     </plurals>
     <string name="about_build_version" msgid="4221971683776635130">"बिल्ड संस्करण"</string>
-    <string name="about_open_source_licenses" msgid="3224958101863814649">"खुला स्रोत इजाजतपत्रहरू"</string>
-    <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"खुला स्रोत सफ्टवेयरका लागि इजाजतपत्रका विवरणहरू"</string>
+    <string name="about_open_source_licenses" msgid="3224958101863814649">"खुला स्रोतका इजाजतपत्रहरू"</string>
+    <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"खुला स्रोतका सफ्टवेयरका इजाजतपत्र सम्बन्धी विवरणहरू"</string>
     <string name="about_privacy_policy" msgid="8458337666582973913">"गोपनीयता नीति"</string>
     <string name="about_terms_of_service" msgid="628537491496465267">"सेवा सर्तहरू"</string>
     <string name="activity_title_licenses" msgid="7812517458691564230">"खुलास्रोत इजाजतपत्रहरू"</string>

@@ -248,7 +248,7 @@
     <string name="listTotalAllContactsZeroCustom" msgid="5661794891640163617">"Ko‘rinadigan kontaktlar yo‘q."</string>
     <string name="listTotalAllContactsZeroStarred" msgid="2747107662985362061">"Hech narsa yo‘q"</string>
     <string name="listTotalAllContactsZeroGroup" msgid="7450331854661098879">"<xliff:g id="NAME">%s</xliff:g> guruhida hech qanday kontakt yo‘q"</string>
-    <string name="menu_clear_frequents" msgid="8492322695770647639">"Tez-tez aloqadagilarni tozalash"</string>
+    <string name="menu_clear_frequents" msgid="8492322695770647639">"Faol kontaktlarni tozalash"</string>
     <string name="menu_select_sim" msgid="7814841439832447299">"SIM kartani tanlash"</string>
     <string name="menu_accounts" msgid="2944004960829403994">"Hisoblarni boshqarish"</string>
     <string name="menu_import_export" msgid="6446229463809981669">"Import/eksport"</string>

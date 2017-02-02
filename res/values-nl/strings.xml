@@ -184,7 +184,7 @@
     <string name="fail_reason_low_memory_during_import" msgid="3277485820827338116">"Onvoldoende geheugen. Het bestand is mogelijk te groot."</string>
     <string name="fail_reason_vcard_parse_error" msgid="514012644716565082">"Kan vCard om onverwachte reden niet parseren."</string>
     <string name="fail_reason_not_supported" msgid="388664373573337601">"De indeling wordt niet ondersteund."</string>
-    <string name="fail_reason_failed_to_collect_vcard_meta_info" msgid="3179066075701123895">"Kan metagegevens niet verzamelen uit vCard-bestand(en)."</string>
+    <string name="fail_reason_failed_to_collect_vcard_meta_info" msgid="3179066075701123895">"Kan metadata niet verzamelen uit vCard-bestand(en)."</string>
     <string name="fail_reason_failed_to_read_files" msgid="9213844535907986665">"Kan een of meer bestanden niet importeren (%s)."</string>
     <string name="exporting_vcard_finished_title" msgid="3581883972188707378">"Exporteren van <xliff:g id="FILENAME">%s</xliff:g> voltooid."</string>
     <string name="exporting_vcard_finished_title_fallback" msgid="2953278060195308065">"Contacten geëxporteerd."</string>
