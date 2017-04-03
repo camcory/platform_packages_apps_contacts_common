@@ -171,6 +171,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Імпортувати із SIM-карти \"<xliff:g id="SIM_NAME">^1</xliff:g>\" – <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Імпортувати із SIM-карти \"<xliff:g id="SIM_NAME">%1$s</xliff:g>\""</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Імпортувати з файлу .vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Імпортувати контакти з файлу vCard?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Скасувати імпорт файлу <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Скасувати експорт файлу <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Не вдалося скасув. імпорт/експорт vCard"</string>
@@ -225,7 +226,7 @@
     <string name="display_options_view_names_as" msgid="3232196224409242435">"Формат імені"</string>
     <string name="display_options_view_given_name_first" msgid="7283772578267332801">"Ім’я спочатку"</string>
     <string name="display_options_view_family_name_first" msgid="8133167685885174166">"Прізвище спочатку"</string>
-    <string name="default_editor_account" msgid="4338725881650654966">"Обліковий запис за умовчанням для нових контактів"</string>
+    <string name="default_editor_account" msgid="4338725881650654966">"Обл. запис за умовчанням для нових контактів"</string>
     <string name="sync_contact_metadata_title" msgid="8322455849769727129">"Синхронізувати метадані контактів [ВНУТРІШНЄ ТЕСТУВАННЯ]"</string>
     <string name="sync_contact_metadata_dialog_title" msgid="4521648342253661374">"Синхронізувати метадані контактів"</string>
     <string name="setting_about" msgid="3926137653588942297">"Про додаток Контакти"</string>

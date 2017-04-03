@@ -91,7 +91,7 @@
     <string name="list_filter_phones" msgid="3692815632088465422">"දුරකථන අංක සහිත සම්බන්ධතා"</string>
     <string name="list_filter_phones_work" msgid="5226451114859079417">"කාර්යාල පැතිකඩ සම්බන්ධතා"</string>
     <string name="view_updates_from_group" msgid="3310864388165884352">"යාවත්කාලීන වීම් පෙන්වන්න"</string>
-    <string name="account_phone" msgid="6104157990869081962">"දුරකථනය-පමණි, සමමුහුර්ත නොකරනලද"</string>
+    <string name="account_phone" msgid="6104157990869081962">"දුරකථනය-පමණි, සමමුහු නොකළ"</string>
     <string name="nameLabelsGroup" msgid="1817502703362057154">"නම‍"</string>
     <string name="nicknameLabelsGroup" msgid="6312795212164843246">"අපනාමය"</string>
     <string name="full_name" msgid="885420216812981202">"නම‍"</string>
@@ -168,7 +168,8 @@
     <string name="import_from_sim" msgid="4749894687871835873">"SIM පතෙන් ආයාත කරන්න"</string>
     <string name="import_from_sim_summary" msgid="2306434118233541675">"SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g> වෙතින් ආයාත කරන්න"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"SIM <xliff:g id="SIM_NAME">%1$s</xliff:g> වෙතින් ආයාත කරන්න"</string>
-    <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">".vcf ගොනු වෙතින් ආයාත කිරීම"</string>
+    <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">".vcf ගොනුවකින් ආයාත කරන්න"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"vCard වෙතින් සම්බන්ධතා ආයාත කරන්නද?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"<xliff:g id="FILENAME">%s</xliff:g> ආයාත කිරීම අවලංගු කරන්නද?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"<xliff:g id="FILENAME">%s</xliff:g> නිර්යාත කිරීම අවලංගු කරන්නද?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"vCard ආයාත/නිර්යාත කිරීම අවලංගු කළ නොහැක"</string>
@@ -185,8 +186,8 @@
     <string name="fail_reason_not_supported" msgid="388664373573337601">"මෙම ආකෘතිය වෙත සහාය නොදක්වයි."</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info" msgid="3179066075701123895">"ලබාදුන් vCard ගොනු(ව) වල පාර දත්ත එකතු කළ නොහැකි විය."</string>
     <string name="fail_reason_failed_to_read_files" msgid="9213844535907986665">"ගොනු එකක් හෝ කිහිපයක් ආයාත කිරීමට නොහැකි විය (%s)."</string>
-    <string name="exporting_vcard_finished_title" msgid="3581883972188707378">"<xliff:g id="FILENAME">%s</xliff:g> නිර්යාත කිරීම සම්පූර්ණ කෙරුණි."</string>
-    <string name="exporting_vcard_finished_title_fallback" msgid="2953278060195308065">"සම්බන්ධතා නිර්යාත කිරීම සම්පූර්ණ කෙරුණි."</string>
+    <string name="exporting_vcard_finished_title" msgid="3581883972188707378">"<xliff:g id="FILENAME">%s</xliff:g> නිර්යාත කිරීම අවසන් කෙරුණි."</string>
+    <string name="exporting_vcard_finished_title_fallback" msgid="2953278060195308065">"සම්බන්ධතා නිර්යාත කිරීම අවසන් කෙරුණි."</string>
     <string name="exporting_vcard_finished_toast" msgid="5995505525489290221">"සම්බන්ධතා නිර්යාත කිරීම අවසන්ය, සම්බන්ධතා බෙදා ගැනීමට දැනුම්දීම ක්ලික් කරන්න."</string>
     <string name="touch_to_share_contacts" msgid="3237211496215699092">"සම්බන්ධතා බෙදා ගැනීමට තට්ටු කරන්න."</string>
     <string name="exporting_vcard_canceled_title" msgid="6993607802553630980">"<xliff:g id="FILENAME">%s</xliff:g> නිර්යාත කිරීම අවලංගු කෙරුණි."</string>
@@ -200,7 +201,7 @@
     <string name="importing_vcard_description" msgid="7206609625359484356">"<xliff:g id="NAME">%s</xliff:g> ආයාත කරමින්"</string>
     <string name="reading_vcard_failed_title" msgid="4360989450476024034">"vCard දත්ත කියවිය නොහැක විය"</string>
     <string name="reading_vcard_canceled_title" msgid="1290217818311955708">"vCard දත්ත කියවීම අවලංගු කෙරුණි"</string>
-    <string name="importing_vcard_finished_title" msgid="5590676758277628951">"vCard <xliff:g id="FILENAME">%s</xliff:g> ආයාත කිරීම සම්පූර්ණ විය"</string>
+    <string name="importing_vcard_finished_title" msgid="5590676758277628951">"vCard <xliff:g id="FILENAME">%s</xliff:g> ආයාත කිරීම අවසන් විය"</string>
     <string name="importing_vcard_canceled_title" msgid="556913863250769870">"<xliff:g id="FILENAME">%s</xliff:g> ආයාත කිරීම අවලංගු කෙරුණි"</string>
     <string name="vcard_import_will_start_message" msgid="7184603116300604514">"<xliff:g id="FILENAME">%s</xliff:g> කෙටි වේලාවකින් ආයාත වනු ඇත."</string>
     <string name="vcard_import_will_start_message_with_default_name" msgid="2560192057642180334">"ගොනුව කෙටි වේලාවකින් ආයාත කරනු ඇත."</string>
@@ -216,7 +217,7 @@
     <string name="confirm_export_title" msgid="3240899428149018226">"සම්බන්ධතා නිර්යාත කරන්නද?"</string>
     <string name="caching_vcard_title" msgid="9185299351381102305">"හැඹිලි ගත කරමින්"</string>
     <string name="progress_notifier_message" msgid="359931715339778107">"<xliff:g id="CURRENT_NUMBER">%s</xliff:g>/<xliff:g id="TOTAL_NUMBER">%s</xliff:g>: <xliff:g id="NAME">%s</xliff:g> ආයාත කරමින්"</string>
-    <string name="export_to_vcf_file" product="default" msgid="4142192068495589925">".vcf ගොනු වෙත නිර්යාත කිරීම"</string>
+    <string name="export_to_vcf_file" product="default" msgid="4142192068495589925">".vcf ගොනුවකට නිර්යාත කරන්න"</string>
     <string name="display_options_sort_list_by" msgid="8635268562263708102">"අනුපිළිවෙලට සකසා ඇත්තේ"</string>
     <string name="display_options_sort_by_given_name" msgid="7775798046001047995">"පළමු නම"</string>
     <string name="display_options_sort_by_family_name" msgid="8196947856299225342">"අවසාන නම"</string>

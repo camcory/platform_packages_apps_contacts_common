@@ -18,7 +18,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="toast_text_copied" msgid="8327159932780920627">"טקסט הועתק"</string>
-    <string name="copy_text" msgid="3424081789297978355">"העתק ללוח"</string>
+    <string name="copy_text" msgid="3424081789297978355">"העתקה ללוח"</string>
     <string name="call_custom" msgid="2786306789889210756">"התקשר אל <xliff:g id="CUSTOM">%s</xliff:g>"</string>
     <string name="call_home" msgid="1479549630992276827">"התקשר לבית"</string>
     <string name="call_mobile" msgid="8618334085824709009">"התקשר לנייד"</string>
@@ -156,13 +156,13 @@
     <string name="list_filter_single" msgid="4553809449379139446">"איש קשר"</string>
     <string name="display_ungrouped" msgid="3669471582032440138">"כל אנשי הקשר האחרים"</string>
     <string name="display_all_contacts" msgid="7251385818740728862">"כל אנשי הקשר"</string>
-    <string name="menu_sync_remove" msgid="6581565236520430269">"הסר קבוצת סנכרון"</string>
-    <string name="dialog_sync_add" msgid="1795682729089027675">"הוסף קבוצת סנכרון"</string>
+    <string name="menu_sync_remove" msgid="6581565236520430269">"הסרת קבוצת סנכרון"</string>
+    <string name="dialog_sync_add" msgid="1795682729089027675">"הוספת קבוצת סנכרון"</string>
     <string name="display_more_groups" msgid="6304997485733158224">"קבוצות נוספות…"</string>
     <string name="display_warn_remove_ungrouped" msgid="7297678747857509619">"הסרת \"<xliff:g id="GROUP">%s</xliff:g>\" מהסנכרון תסיר מהסנכרון גם אנשי קשר שאינם מקובצים."</string>
     <string name="savingDisplayGroups" msgid="6863012138107446030">"שומר אפשרויות תצוגה…"</string>
     <string name="menu_done" msgid="32470053723443112">"בוצע"</string>
-    <string name="menu_doNotSave" msgid="6012426160993364871">"בטל"</string>
+    <string name="menu_doNotSave" msgid="6012426160993364871">"ביטול"</string>
     <string name="listAllContactsInAccount" msgid="755499980092808715">"אנשי קשר ב-<xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="listCustomView" msgid="1915154113477432033">"אנשי קשר בתצוגה מותאמת אישית"</string>
     <string name="listSingleContact" msgid="8525131203887307088">"איש קשר יחיד"</string>
@@ -171,6 +171,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"‏יבא מ-SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"‏יבא מ-SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"‏יבא מקובץ ‎.vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"‏האם לייבא את אנשי הקשר מ-vCard?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"האם לבטל את הייבוא של <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"האם לבטל את הייצוא של <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"‏לא ניתן היה לבטל ייבוא/ייצוא של vCard"</string>
@@ -204,10 +205,10 @@
     <string name="reading_vcard_canceled_title" msgid="1290217818311955708">"‏קריאת נתוני ה-VCard בוטלה"</string>
     <string name="importing_vcard_finished_title" msgid="5590676758277628951">"‏הייבוא של קובץ vCard ‏<xliff:g id="FILENAME">%s</xliff:g> הסתיים"</string>
     <string name="importing_vcard_canceled_title" msgid="556913863250769870">"הייבוא של <xliff:g id="FILENAME">%s</xliff:g> בוטל"</string>
-    <string name="vcard_import_will_start_message" msgid="7184603116300604514">"הייבוא של <xliff:g id="FILENAME">%s</xliff:g> יתבצע תוך זמן קצר."</string>
-    <string name="vcard_import_will_start_message_with_default_name" msgid="2560192057642180334">"ייבוא הקובץ יתבצע תוך זמן קצר."</string>
+    <string name="vcard_import_will_start_message" msgid="7184603116300604514">"הייבוא של <xliff:g id="FILENAME">%s</xliff:g> יתבצע בהקדם."</string>
+    <string name="vcard_import_will_start_message_with_default_name" msgid="2560192057642180334">"ייבוא הקובץ יתבצע בהקדם."</string>
     <string name="vcard_import_request_rejected_message" msgid="5209363425953891316">"‏הבקשה לייבוא ה-vCard נדחתה. נסה שוב מאוחר יותר."</string>
-    <string name="vcard_export_will_start_message" msgid="2168853666316526278">"הייצוא של <xliff:g id="FILENAME">%s</xliff:g> יתבצע תוך זמן קצר."</string>
+    <string name="vcard_export_will_start_message" msgid="2168853666316526278">"הייצוא של <xliff:g id="FILENAME">%s</xliff:g> יתבצע בהקדם."</string>
     <string name="vcard_export_will_start_message_fallback" msgid="6418767460851707308">"ייצוא הקובץ יתבצע בעוד זמן קצר."</string>
     <string name="contacts_export_will_start_message" msgid="4527597765334949574">"יצוא אנשי הקשר יבוצע תוך זמן קצר."</string>
     <string name="vcard_export_request_rejected_message" msgid="8044599716727705282">"‏הבקשה לייצוא ה-vCard נדחתה. נסה שוב מאוחר יותר."</string>
@@ -239,7 +240,7 @@
     <string name="dialog_import" msgid="5177004290082451296">"יבא אנשי קשר"</string>
     <string name="share_error" msgid="665756457151793108">"לא ניתן לשתף איש קשר זה."</string>
     <string name="no_contact_to_share" msgid="5749367538191552509">"אין אנשי קשר לשיתוף."</string>
-    <string name="menu_search" msgid="7464453023659824700">"חפש"</string>
+    <string name="menu_search" msgid="7464453023659824700">"חיפוש"</string>
     <string name="menu_contacts_filter" msgid="586356478145511794">"אנשי קשר להצגה"</string>
     <string name="activity_title_contacts_filter" msgid="7689519428197855166">"אנשי קשר להצגה"</string>
     <string name="custom_list_filter" msgid="582616656313514803">"תצוגה מותאמת אישית"</string>
@@ -249,9 +250,9 @@
     <string name="listTotalAllContactsZeroCustom" msgid="5661794891640163617">"אין אנשי קשר גלויים."</string>
     <string name="listTotalAllContactsZeroStarred" msgid="2747107662985362061">"אין מועדפים"</string>
     <string name="listTotalAllContactsZeroGroup" msgid="7450331854661098879">"אין אנשי קשר ב-<xliff:g id="NAME">%s</xliff:g>"</string>
-    <string name="menu_clear_frequents" msgid="8492322695770647639">"מחק אנשי קשר קבועים"</string>
-    <string name="menu_select_sim" msgid="7814841439832447299">"‏בחר כרטיס SIM"</string>
-    <string name="menu_accounts" msgid="2944004960829403994">"נהל חשבונות"</string>
+    <string name="menu_clear_frequents" msgid="8492322695770647639">"מחיקת אנשי קשר קבועים"</string>
+    <string name="menu_select_sim" msgid="7814841439832447299">"‏בחירת כרטיס SIM"</string>
+    <string name="menu_accounts" msgid="2944004960829403994">"ניהול חשבונות"</string>
     <string name="menu_import_export" msgid="6446229463809981669">"ייבוא/ייצוא"</string>
     <string name="contact_status_update_attribution" msgid="8419168578670128134">"באמצעות <xliff:g id="SOURCE">%1$s</xliff:g>"</string>
     <string name="contact_status_update_attribution_with_date" msgid="7492465535645607473">"<xliff:g id="DATE">%1$s</xliff:g> באמצעות <xliff:g id="SOURCE">%2$s</xliff:g>"</string>

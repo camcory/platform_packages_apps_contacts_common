@@ -102,10 +102,10 @@
     <string name="name_prefix" msgid="8219879405071462309">"Прэфікс імені"</string>
     <string name="name_middle" msgid="3951610314424632183">"Імя па бацьку"</string>
     <string name="name_suffix" msgid="5436984808550075931">"Суфікс да імені"</string>
-    <string name="name_phonetic" msgid="2249169131785620210">"Вымаўленне імя"</string>
-    <string name="name_phonetic_given" msgid="2863316331175661852">"Вымаўленне імя"</string>
-    <string name="name_phonetic_middle" msgid="5970174427249235577">"Вымаўленне імені па бацьку / 2-га імені"</string>
-    <string name="name_phonetic_family" msgid="1572398622239414464">"Вымаўленне прозвішча"</string>
+    <string name="name_phonetic" msgid="2249169131785620210">"Фанетычнае імя"</string>
+    <string name="name_phonetic_given" msgid="2863316331175661852">"Фанетычнае імя"</string>
+    <string name="name_phonetic_middle" msgid="5970174427249235577">"Фанетычнае імя па бацьку"</string>
+    <string name="name_phonetic_family" msgid="1572398622239414464">"Фанетычнае прозвішча"</string>
     <string name="phoneLabelsGroup" msgid="7913782787902007482">"Тэлефон"</string>
     <string name="emailLabelsGroup" msgid="4696310712601184208">"Электронная пошта"</string>
     <string name="postalLabelsGroup" msgid="3727124282406728557">"Адрас"</string>
@@ -116,7 +116,7 @@
     <string name="sms" msgid="8086289395154598654">"Тэкставае паведамленне"</string>
     <string name="postal_address" msgid="7692926530081579786">"Адрас"</string>
     <string name="ghostData_company" msgid="22470841482615409">"Кампанія"</string>
-    <string name="ghostData_title" msgid="6221293237772204604">"Назва"</string>
+    <string name="ghostData_title" msgid="6221293237772204604">"Пасада"</string>
     <string name="label_notes" msgid="3997277594846722699">"Нататкі"</string>
     <string name="label_sip_address" msgid="3754551597798479318">"SIP"</string>
     <string name="websiteLabelsGroup" msgid="8620657380165071493">"Вэб-сайт"</string>
@@ -149,7 +149,7 @@
     <string name="chat" msgid="6297650784873558837">"Гутарка"</string>
     <string name="description_minus_button" msgid="2142439445814730827">"выдаліць"</string>
     <string name="expand_collapse_name_fields_description" msgid="5073419090665464541">"Разгарнуць ці згарнуць назвы палёў"</string>
-    <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"Разгарнуць ці згарнуць палі вымаўлення імён"</string>
+    <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"Разгарнуць ці згарнуць палі фанетычных імён"</string>
     <string name="list_filter_all_accounts" msgid="4265359896628915784">"Усе кантакты"</string>
     <string name="list_filter_all_starred" msgid="9060325494254507806">"Пазначаныя"</string>
     <string name="list_filter_customize" msgid="2352794292558465089">"Карыстальнiцкi"</string>
@@ -162,15 +162,16 @@
     <string name="display_warn_remove_ungrouped" msgid="7297678747857509619">"Выдаленне групы \"<xliff:g id="GROUP">%s</xliff:g>\" з чаргi на сінхранізацыю таксама выдаліць любыя разгрупаваныя кантакты з гэтай чаргi."</string>
     <string name="savingDisplayGroups" msgid="6863012138107446030">"Захаванне параметраў адлюстравання..."</string>
     <string name="menu_done" msgid="32470053723443112">"Гатова"</string>
-    <string name="menu_doNotSave" msgid="6012426160993364871">"Адмена"</string>
+    <string name="menu_doNotSave" msgid="6012426160993364871">"Скасаваць"</string>
     <string name="listAllContactsInAccount" msgid="755499980092808715">"Кантакты карыстальнiка <xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="listCustomView" msgid="1915154113477432033">"Кантакты ў карыстальнiцкiм выглядзе"</string>
     <string name="listSingleContact" msgid="8525131203887307088">"Адзіночны кантакт"</string>
     <string name="dialog_new_contact_account" msgid="32435918254518570">"Захаваць імпартаваныя кантакты ў:"</string>
-    <string name="import_from_sim" msgid="4749894687871835873">"Імпарт з SIM-карты"</string>
-    <string name="import_from_sim_summary" msgid="2306434118233541675">"Імпарт з SIM-карты <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
-    <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Імпарт з SIM-карты SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
+    <string name="import_from_sim" msgid="4749894687871835873">"Імпартаваць з SIM-карты"</string>
+    <string name="import_from_sim_summary" msgid="2306434118233541675">"Імпартаваць з SIM-карты <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
+    <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Імпартаваць з SIM-карты SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Імпартаваць з файла .vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Імпартаваць кантакты з vCard?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Адмянiць iмпарт файла \"<xliff:g id="FILENAME">%s</xliff:g>\"?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Адмянiць экспарт файла \"<xliff:g id="FILENAME">%s</xliff:g>\"?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Немагчыма адмяніць імпарт/экспарт vCard"</string>
@@ -240,8 +241,8 @@
     <string name="share_error" msgid="665756457151793108">"Немагчыма падзялiцца гэтым кантактам."</string>
     <string name="no_contact_to_share" msgid="5749367538191552509">"Няма кантактаў, якія можна абагуліць."</string>
     <string name="menu_search" msgid="7464453023659824700">"Пошук"</string>
-    <string name="menu_contacts_filter" msgid="586356478145511794">"Кантакты для адлюстр."</string>
-    <string name="activity_title_contacts_filter" msgid="7689519428197855166">"Кантакты для адлюстр."</string>
+    <string name="menu_contacts_filter" msgid="586356478145511794">"Адлюстроўваць кантакты"</string>
+    <string name="activity_title_contacts_filter" msgid="7689519428197855166">"Адлюстроўваць кантакты"</string>
     <string name="custom_list_filter" msgid="582616656313514803">"Вызначыць карыстальніцкі выгляд"</string>
     <string name="hint_findContacts" msgid="28151707326753522">"Знайсці кантакты"</string>
     <string name="contactsFavoritesLabel" msgid="1222038757062409949">"Выбраныя"</string>
@@ -273,11 +274,11 @@
       <item quantity="other"> <xliff:g id="TITLE_2">%1$s</xliff:g>. <xliff:g id="COUNT_3">%2$d</xliff:g> непрачытанага элемента. </item>
     </plurals>
     <string name="about_build_version" msgid="4221971683776635130">"Версія зборкі"</string>
-    <string name="about_open_source_licenses" msgid="3224958101863814649">"Ліцэнзіі на ПЗ з адкрытым зыходным кодам"</string>
+    <string name="about_open_source_licenses" msgid="3224958101863814649">"Ліцэнзіі на ПЗ з адкрытым кодам"</string>
     <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"Звесткі аб ліцэнзіі на праграмнае забеспячэнне з адкрытым зыходным кодам"</string>
     <string name="about_privacy_policy" msgid="8458337666582973913">"Палітыка прыватнасці"</string>
     <string name="about_terms_of_service" msgid="628537491496465267">"Умовы абслугоўвання"</string>
-    <string name="activity_title_licenses" msgid="7812517458691564230">"Ліцэнзіі на ПЗ з адкрытым зыходным кодам"</string>
+    <string name="activity_title_licenses" msgid="7812517458691564230">"Ліцэнзіі на ПЗ з адкрытым кодам"</string>
     <string name="url_open_error_toast" msgid="7557601281695424805">"Не ўдалося адкрыць URL."</string>
     <string name="account_filter_view_checked" msgid="4368757211136754319">"<xliff:g id="ACCOUNT_INFO">%s</xliff:g> пазначана"</string>
     <string name="account_filter_view_not_checked" msgid="5652044086126815700">"<xliff:g id="ACCOUNT_INFO">%s</xliff:g> не пазначана"</string>

@@ -74,11 +74,11 @@
     <string name="local_invisible_directory" msgid="8934840494825588347">"ອື່ນໆ"</string>
     <string name="directory_search_label" msgid="4484648822765516947">"ໄດເຣັກທໍຣີ"</string>
     <string name="directory_search_label_work" msgid="7396227297795426967">"ໄດເຣັກທໍຣີບ່ອນເຮັດວຽກ"</string>
-    <string name="local_search_label" msgid="9094584931063745728">"ລາຍຊື່ຜູ່ຕິດຕໍ່ທັງໝົດ"</string>
+    <string name="local_search_label" msgid="9094584931063745728">"ລາຍຊື່ຜູ້ຕິດຕໍ່ທັງໝົດ"</string>
     <string name="user_profile_contacts_list_header" msgid="8436133790234197565">"ຂ້ອຍ"</string>
     <string name="search_results_searching" msgid="9022794597388306615">"ກຳລັງຊອກຫາ..."</string>
     <string name="foundTooManyContacts" msgid="3060037437459313616">"ພົບຫຼາຍກວ່າ <xliff:g id="COUNT">%d</xliff:g> ລາຍການ."</string>
-    <string name="listFoundAllContactsZero" msgid="4406036083994138930">"ບໍ່ມີລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+    <string name="listFoundAllContactsZero" msgid="4406036083994138930">"ບໍ່ມີລາຍຊື່ຜູ້ຕິດຕໍ່"</string>
     <plurals name="searchFoundContacts" formatted="false" msgid="4016164064185890420">
       <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ພົບແລ້ວ</item>
       <item quantity="one">1 ພົບແລ້ວ</item>
@@ -148,12 +148,12 @@
     <string name="description_minus_button" msgid="2142439445814730827">"ລຶບ"</string>
     <string name="expand_collapse_name_fields_description" msgid="5073419090665464541">"ຂະຫຍາຍ ຫຼືຫຍໍ້ຊ່ອງຂໍ້ມູນຊື່"</string>
     <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"ຂະ​ຫຍາຍ ຫຼື ຫຍໍ້​ບ່ອນ​ໃສ່​ຊື່​ຕາມ​ການ​ອອກ​ສຽງ"</string>
-    <string name="list_filter_all_accounts" msgid="4265359896628915784">"ລາຍຊື່ຜູ່ຕິດຕໍ່ທັງໝົດ"</string>
+    <string name="list_filter_all_accounts" msgid="4265359896628915784">"ລາຍຊື່ຜູ້ຕິດຕໍ່ທັງໝົດ"</string>
     <string name="list_filter_all_starred" msgid="9060325494254507806">"ໝາຍດາວໄວ້"</string>
     <string name="list_filter_customize" msgid="2352794292558465089">"ປັບແຕ່ງ"</string>
     <string name="list_filter_single" msgid="4553809449379139446">"ລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
     <string name="display_ungrouped" msgid="3669471582032440138">"ລາຍຊື່ຜູ່ຕິດຕໍ່ອື່ນໆທັງໝົດ"</string>
-    <string name="display_all_contacts" msgid="7251385818740728862">"ລາຍຊື່ຜູ່ຕິດຕໍ່ທັງໝົດ"</string>
+    <string name="display_all_contacts" msgid="7251385818740728862">"ລາຍຊື່ຜູ້ຕິດຕໍ່ທັງໝົດ"</string>
     <string name="menu_sync_remove" msgid="6581565236520430269">"ລຶບກຸ່ມການຊິ້ງຂໍ້ມູນ"</string>
     <string name="dialog_sync_add" msgid="1795682729089027675">"ເພີ່ມກຸ່ມຊິ້ງຂໍ້ມູນ"</string>
     <string name="display_more_groups" msgid="6304997485733158224">"ກຸ່ມເພີ່ມເຕີມ..."</string>
@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"ນຳ​ເຂົ້າ​ຈາກ SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"​ນຳ​ເຂົ້າ​ຈາກ SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"ນຳ​ເຂົ້າ​ຈາກ​ໄຟ​ລ໌ .vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"ນຳເຂົ້າລາຍຊື່ຜູ້ຕິດຕໍ່ຈາກ vCard ບໍ?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"ຍົກເລີກການນຳເຂົ້າ <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"ຍົກເລີກການສົ່ງອອກ <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"ບໍ່ສາມາດຍົກເລີກ ການນຳເຂົ້າ/ສົ່ງອອກ vCard ໄດ້"</string>
@@ -243,7 +244,7 @@
     <string name="custom_list_filter" msgid="582616656313514803">"ກຳນົດມຸມມອງເອງ"</string>
     <string name="hint_findContacts" msgid="28151707326753522">"ຊອກຫາລາຍຊື່ຜູ້ຕິດຕໍ່"</string>
     <string name="contactsFavoritesLabel" msgid="1222038757062409949">"ລາຍການທີ່ມັກ"</string>
-    <string name="listTotalAllContactsZero" msgid="6041341919823872732">"ບໍ່ມີລາຍຊື່ຜູ່ຕິດຕໍ່."</string>
+    <string name="listTotalAllContactsZero" msgid="6041341919823872732">"ບໍ່ມີລາຍຊື່ຜູ້ຕິດຕໍ່."</string>
     <string name="listTotalAllContactsZeroCustom" msgid="5661794891640163617">"ບໍ່ມີລາຍຊື່ຜູ່ຕິດຕໍ່ທີ່ເບິ່ງເຫັນໄດ້."</string>
     <string name="listTotalAllContactsZeroStarred" msgid="2747107662985362061">"ບໍ່ມີລາຍການທີ່ມັກ"</string>
     <string name="listTotalAllContactsZeroGroup" msgid="7450331854661098879">"ບໍ່ມີລາຍຊື່ຜູ່ຕິດຕໍ່ໃນ <xliff:g id="NAME">%s</xliff:g>"</string>

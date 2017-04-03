@@ -150,7 +150,7 @@
     <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"Kembangkan atau runtuhkan medan nama fonetik"</string>
     <string name="list_filter_all_accounts" msgid="4265359896628915784">"Semua kenalan"</string>
     <string name="list_filter_all_starred" msgid="9060325494254507806">"Dibintangkan"</string>
-    <string name="list_filter_customize" msgid="2352794292558465089">"Peribadikan"</string>
+    <string name="list_filter_customize" msgid="2352794292558465089">"Sesuaikan"</string>
     <string name="list_filter_single" msgid="4553809449379139446">"Kenalan"</string>
     <string name="display_ungrouped" msgid="3669471582032440138">"Semua kenalan lain"</string>
     <string name="display_all_contacts" msgid="7251385818740728862">"Semua kenalan"</string>
@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Import dari SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Import dari SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Import daripada fail .vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Import kenalan daripada vCard?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Batalkan import <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Batalkan eksport <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Tidak dapat membatalkan import/eksport vCard"</string>

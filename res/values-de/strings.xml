@@ -93,7 +93,7 @@
     <string name="view_updates_from_group" msgid="3310864388165884352">"Updates ansehen"</string>
     <string name="account_phone" msgid="6104157990869081962">"Nur Telefon, nicht synchronisiert"</string>
     <string name="nameLabelsGroup" msgid="1817502703362057154">"Name"</string>
-    <string name="nicknameLabelsGroup" msgid="6312795212164843246">"Alias"</string>
+    <string name="nicknameLabelsGroup" msgid="6312795212164843246">"Spitzname"</string>
     <string name="full_name" msgid="885420216812981202">"Name"</string>
     <string name="name_given" msgid="4153709115654909377">"Vorname"</string>
     <string name="name_family" msgid="5317387657540738981">"Nachname"</string>
@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Von SIM <xliff:g id="SIM_NAME">^1</xliff:g> – <xliff:g id="SIM_NUMBER">^2</xliff:g> importieren"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Von SIM <xliff:g id="SIM_NAME">%1$s</xliff:g> importieren"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Aus VCF-Datei importieren"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Kontakte von vCard importieren?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Import von <xliff:g id="FILENAME">%s</xliff:g> abbrechen?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Export von <xliff:g id="FILENAME">%s</xliff:g> abbrechen?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"vCard-Import/-Export nicht abgebrochen"</string>

@@ -96,7 +96,7 @@
     <string name="nicknameLabelsGroup" msgid="6312795212164843246">"Apodo"</string>
     <string name="full_name" msgid="885420216812981202">"Nombre"</string>
     <string name="name_given" msgid="4153709115654909377">"Nombre"</string>
-    <string name="name_family" msgid="5317387657540738981">"Apellido"</string>
+    <string name="name_family" msgid="5317387657540738981">"Apellidos"</string>
     <string name="name_prefix" msgid="8219879405071462309">"Prefijo del nombre"</string>
     <string name="name_middle" msgid="3951610314424632183">"Segundo nombre"</string>
     <string name="name_suffix" msgid="5436984808550075931">"Sufijo del nombre"</string>
@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Importar de SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Importar de SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Importar de archivo .vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"¿Importar contactos de vCard?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"¿Quieres cancelar la importación de <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"¿Quieres cancelar la exportación de <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Error al cancelar la importación/exportación de vCard"</string>
@@ -223,7 +224,7 @@
     <string name="export_to_vcf_file" product="default" msgid="4142192068495589925">"Exportar a archivo .vcf"</string>
     <string name="display_options_sort_list_by" msgid="8635268562263708102">"Ordenar por"</string>
     <string name="display_options_sort_by_given_name" msgid="7775798046001047995">"Nombre"</string>
-    <string name="display_options_sort_by_family_name" msgid="8196947856299225342">"Apellido"</string>
+    <string name="display_options_sort_by_family_name" msgid="8196947856299225342">"Apellidos"</string>
     <string name="display_options_view_names_as" msgid="3232196224409242435">"Formato de nombre"</string>
     <string name="display_options_view_given_name_first" msgid="7283772578267332801">"Nombre primero"</string>
     <string name="display_options_view_family_name_first" msgid="8133167685885174166">"Apellido primero"</string>
@@ -273,11 +274,11 @@
       <item quantity="one"> <xliff:g id="TITLE_0">%1$s</xliff:g>. <xliff:g id="COUNT_1">%2$d</xliff:g> elemento no leído. </item>
     </plurals>
     <string name="about_build_version" msgid="4221971683776635130">"Versión de la compilación"</string>
-    <string name="about_open_source_licenses" msgid="3224958101863814649">"Licencias de software libre"</string>
+    <string name="about_open_source_licenses" msgid="3224958101863814649">"Licencias de código abierto"</string>
     <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"Detalles de las licencias de software libre"</string>
     <string name="about_privacy_policy" msgid="8458337666582973913">"Política de Privacidad"</string>
     <string name="about_terms_of_service" msgid="628537491496465267">"Condiciones de Servicio"</string>
-    <string name="activity_title_licenses" msgid="7812517458691564230">"Licencias de software libre"</string>
+    <string name="activity_title_licenses" msgid="7812517458691564230">"Licencias de código abierto"</string>
     <string name="url_open_error_toast" msgid="7557601281695424805">"No se ha podido abrir la URL."</string>
     <string name="account_filter_view_checked" msgid="4368757211136754319">"Se ha seleccionado <xliff:g id="ACCOUNT_INFO">%s</xliff:g>"</string>
     <string name="account_filter_view_not_checked" msgid="5652044086126815700">"No se ha seleccionado <xliff:g id="ACCOUNT_INFO">%s</xliff:g>"</string>

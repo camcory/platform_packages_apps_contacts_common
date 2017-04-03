@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"นำเข้าจากซิม <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"นำเข้าจากซิม <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"นำเข้าจากไฟล์ .vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"นำเข้ารายชื่อติดต่อจาก vCard ไหม"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"ยกเลิกการนำเข้า <xliff:g id="FILENAME">%s</xliff:g> หรือไม่"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"ยกเลิกการส่งออก <xliff:g id="FILENAME">%s</xliff:g> หรือไม่"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"ไม่สามารถยกเลิกการนำเข้า/ส่งออก vCard"</string>
@@ -240,7 +241,7 @@
     <string name="menu_search" msgid="7464453023659824700">"ค้นหา"</string>
     <string name="menu_contacts_filter" msgid="586356478145511794">"รายชื่อติดต่อที่จะแสดง"</string>
     <string name="activity_title_contacts_filter" msgid="7689519428197855166">"รายชื่อติดต่อที่จะแสดง"</string>
-    <string name="custom_list_filter" msgid="582616656313514803">"กำหนดมุมมองที่กำหนดเอง"</string>
+    <string name="custom_list_filter" msgid="582616656313514803">"ระบุมุมมองที่กำหนดเอง"</string>
     <string name="hint_findContacts" msgid="28151707326753522">"ค้นหารายชื่อติดต่อ"</string>
     <string name="contactsFavoritesLabel" msgid="1222038757062409949">"รายการโปรด"</string>
     <string name="listTotalAllContactsZero" msgid="6041341919823872732">"ไม่มีรายชื่อติดต่อ"</string>
@@ -271,7 +272,7 @@
     <string name="about_build_version" msgid="4221971683776635130">"เวอร์ชันบิวด์"</string>
     <string name="about_open_source_licenses" msgid="3224958101863814649">"ใบอนุญาตโอเพนซอร์ส"</string>
     <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"รายละเอียดใบอนุญาตสำหรับซอฟต์แวร์โอเพนซอร์ส"</string>
-    <string name="about_privacy_policy" msgid="8458337666582973913">"นโยบายส่วนบุคคล"</string>
+    <string name="about_privacy_policy" msgid="8458337666582973913">"นโยบายความเป็นส่วนตัว"</string>
     <string name="about_terms_of_service" msgid="628537491496465267">"ข้อกำหนดในการให้บริการ"</string>
     <string name="activity_title_licenses" msgid="7812517458691564230">"ใบอนุญาตโอเพนซอร์ส"</string>
     <string name="url_open_error_toast" msgid="7557601281695424805">"เปิด URL ไม่สำเร็จ"</string>

@@ -170,6 +170,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Importați de pe cardul SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Importați de pe cardul SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Importați din fișier .vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Importați persoane de contact din vCard?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Anulați importul fișierului <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Anulați exportul fișierului <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Anulare import/export vCard nereușită"</string>
@@ -189,7 +190,7 @@
     <string name="exporting_vcard_finished_title" msgid="3581883972188707378">"S-a finalizat exportul fișierului <xliff:g id="FILENAME">%s</xliff:g>."</string>
     <string name="exporting_vcard_finished_title_fallback" msgid="2953278060195308065">"Persoanele de contact au fost exportate."</string>
     <string name="exporting_vcard_finished_toast" msgid="5995505525489290221">"S-a încheiat exportul persoanelor de contact. Dați clic pe notificare pentru a trimite persoanele de contact."</string>
-    <string name="touch_to_share_contacts" msgid="3237211496215699092">"Atingeți pentru a trimite persoanele de contact."</string>
+    <string name="touch_to_share_contacts" msgid="3237211496215699092">"Atingeți pentru a distribui persoanele de contact."</string>
     <string name="exporting_vcard_canceled_title" msgid="6993607802553630980">"Exportul fișierului <xliff:g id="FILENAME">%s</xliff:g> a fost anulat."</string>
     <string name="exporting_contact_list_title" msgid="5663945499580026953">"Se exportă datele persoanelor de contact"</string>
     <string name="exporting_contact_list_message" msgid="141905615542638683">"Se exportă datele privind persoanele de contact."</string>

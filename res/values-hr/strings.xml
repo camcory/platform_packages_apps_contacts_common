@@ -170,6 +170,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Uvoz sa SIM-a <xliff:g id="SIM_NAME">^1</xliff:g> – <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Uvoz sa SIM-a <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Uvezi iz .vcf datoteke"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Želite li uvesti kontakte s vCarda?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Otkazati uvoz datoteke <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Otkazati izvoz datoteke <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Uvoz/izvoz kartice vCard nije otkazan"</string>
@@ -246,7 +247,7 @@
     <string name="menu_contacts_filter" msgid="586356478145511794">"Kontakti za prikaz"</string>
     <string name="activity_title_contacts_filter" msgid="7689519428197855166">"Kontakti za prikaz"</string>
     <string name="custom_list_filter" msgid="582616656313514803">"Prilagodba prikaza"</string>
-    <string name="hint_findContacts" msgid="28151707326753522">"Pronađi kontakte"</string>
+    <string name="hint_findContacts" msgid="28151707326753522">"Potražite kontakte"</string>
     <string name="contactsFavoritesLabel" msgid="1222038757062409949">"Favoriti"</string>
     <string name="listTotalAllContactsZero" msgid="6041341919823872732">"Nema kontakata."</string>
     <string name="listTotalAllContactsZeroCustom" msgid="5661794891640163617">"Nema vidljivih kontakata."</string>

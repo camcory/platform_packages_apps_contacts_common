@@ -76,7 +76,7 @@
     <string name="directory_search_label_work" msgid="7396227297795426967">"Annuaire professionnel"</string>
     <string name="local_search_label" msgid="9094584931063745728">"Tous les contacts"</string>
     <string name="user_profile_contacts_list_header" msgid="8436133790234197565">"Moi"</string>
-    <string name="search_results_searching" msgid="9022794597388306615">"Recherche en cours..."</string>
+    <string name="search_results_searching" msgid="9022794597388306615">"Recherche…"</string>
     <string name="foundTooManyContacts" msgid="3060037437459313616">"Plus de <xliff:g id="COUNT">%d</xliff:g> contacts ont été trouvés."</string>
     <string name="listFoundAllContactsZero" msgid="4406036083994138930">"Aucun contact"</string>
     <plurals name="searchFoundContacts" formatted="false" msgid="4016164064185890420">
@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Importer de la carte SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Importer de la carte SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Importer d\'un fichier .vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Importer les contacts de vCard?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Annuler l\'importation du fichier <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Annuler l\'exportation du fichier <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Impossible annuler import./export. vCard"</string>
@@ -223,7 +224,7 @@
     <string name="display_options_view_names_as" msgid="3232196224409242435">"Format de nom"</string>
     <string name="display_options_view_given_name_first" msgid="7283772578267332801">"Prénom en premier"</string>
     <string name="display_options_view_family_name_first" msgid="8133167685885174166">"Nom de famille en premier"</string>
-    <string name="default_editor_account" msgid="4338725881650654966">"Compte par défaut pour les nouveaux contacts"</string>
+    <string name="default_editor_account" msgid="4338725881650654966">"Compte par défaut pour nouveaux contacts"</string>
     <string name="sync_contact_metadata_title" msgid="8322455849769727129">"Synchroniser les métadonnées des contacts [DOGFOOD]"</string>
     <string name="sync_contact_metadata_dialog_title" msgid="4521648342253661374">"Synchroniser les métadonnées des contacts"</string>
     <string name="setting_about" msgid="3926137653588942297">"À propos de Contacts"</string>

@@ -106,7 +106,7 @@
     <string name="name_suffix" msgid="5436984808550075931">"لاحقة الاسم"</string>
     <string name="name_phonetic" msgid="2249169131785620210">"الاسم صوتيًا"</string>
     <string name="name_phonetic_given" msgid="2863316331175661852">"الاسم الأول صوتيًا"</string>
-    <string name="name_phonetic_middle" msgid="5970174427249235577">"الاسم الصوتي الأوسط"</string>
+    <string name="name_phonetic_middle" msgid="5970174427249235577">"الاسم الأوسط صوتيًا"</string>
     <string name="name_phonetic_family" msgid="1572398622239414464">"اسم العائلة صوتيًا"</string>
     <string name="phoneLabelsGroup" msgid="7913782787902007482">"الهاتف"</string>
     <string name="emailLabelsGroup" msgid="4696310712601184208">"البريد الإلكتروني"</string>
@@ -173,6 +173,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"‏استيراد من شريحة SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"‏استيراد من شريحة SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"‏الاستيراد من ملف vcf."</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"‏استيراد جهات الاتصال من vCard؟"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"هل تريد إلغاء استيراد <xliff:g id="FILENAME">%s</xliff:g>؟"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"هل تريد إلغاء تصدير <xliff:g id="FILENAME">%s</xliff:g>؟"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"‏تعذر إلغاء استيراد/تصدير vCard"</string>

@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Tuo SIM-kortilta <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Tuo SIM-kortilta <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Tuo .vcf-tiedostosta"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Tuodaanko yhteystiedot vCard-tiedostosta?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Peruutetaanko kohteen <xliff:g id="FILENAME">%s</xliff:g> tuonti?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Peruutetaanko kohteen <xliff:g id="FILENAME">%s</xliff:g> vienti?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"vCardin tuonnin/viennin peruutus epäonn."</string>
@@ -188,7 +189,7 @@
     <string name="exporting_vcard_finished_title" msgid="3581883972188707378">"Kohde <xliff:g id="FILENAME">%s</xliff:g> on viety."</string>
     <string name="exporting_vcard_finished_title_fallback" msgid="2953278060195308065">"Yhteystiedot on viety."</string>
     <string name="exporting_vcard_finished_toast" msgid="5995505525489290221">"Yhteystiedot vietiin. Jaa yhteystiedot klikkaamalla ilmoitusta."</string>
-    <string name="touch_to_share_contacts" msgid="3237211496215699092">"Jaa yhteystiedot koskettamalla."</string>
+    <string name="touch_to_share_contacts" msgid="3237211496215699092">"Jaa yhteystiedot napauttamalla."</string>
     <string name="exporting_vcard_canceled_title" msgid="6993607802553630980">"Kohteen <xliff:g id="FILENAME">%s</xliff:g> vienti peruutettiin."</string>
     <string name="exporting_contact_list_title" msgid="5663945499580026953">"Viedään yhteystietoja"</string>
     <string name="exporting_contact_list_message" msgid="141905615542638683">"Yhteystietoja viedään."</string>

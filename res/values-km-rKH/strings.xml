@@ -150,7 +150,7 @@
     <string name="expand_collapse_phonetic_name_fields_description" msgid="5241493357460353777">"ពង្រីក និងបង្រួមប្រអប់ឈ្មោះសូរសព្ទ"</string>
     <string name="list_filter_all_accounts" msgid="4265359896628915784">"ទំនាក់ទំនង​ទាំងអស់"</string>
     <string name="list_filter_all_starred" msgid="9060325494254507806">"បាន​ដាក់​ផ្កាយ"</string>
-    <string name="list_filter_customize" msgid="2352794292558465089">"ប្ដូរ​តាម​តម្រូវ​ការ"</string>
+    <string name="list_filter_customize" msgid="2352794292558465089">"កំណត់តាម​តម្រូវ​ការ"</string>
     <string name="list_filter_single" msgid="4553809449379139446">"ទំនាក់ទំនង"</string>
     <string name="display_ungrouped" msgid="3669471582032440138">"ទំនាក់ទំនង​ទាំងអស់​ផ្សេង​ទៀត"</string>
     <string name="display_all_contacts" msgid="7251385818740728862">"ទំនាក់ទំនង​ទាំងអស់"</string>
@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"នាំចូល​ពី​ស៊ីម <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"នាំចូល​ពី​ស៊ីម <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"នាំចូូលពីឯកសារ .vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"នាំចូល​ទំនាក់ទំនង​ពី vCard ដែរ​ឬ​ទេ?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"បោះបង់​ការ​នាំចូល <xliff:g id="FILENAME">%s</xliff:g> ?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"បោះបង់​ការ​នាំចេញ <xliff:g id="FILENAME">%s</xliff:g> ?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"មិន​អាច​បោះបង់​ការ​នាំចេញ/នាំចូល vCard"</string>
@@ -187,7 +188,7 @@
     <string name="fail_reason_failed_to_read_files" msgid="9213844535907986665">"មាន​ឯកសារ​មួយ ឬ​ច្រើន​ដែល​មិន​អាច​នាំចូល (%s​) បាន​។"</string>
     <string name="exporting_vcard_finished_title" msgid="3581883972188707378">"បាន​បញ្ចប់​ការ​នាំ​ចេញ <xliff:g id="FILENAME">%s</xliff:g> ។"</string>
     <string name="exporting_vcard_finished_title_fallback" msgid="2953278060195308065">"បានបញ្ចប់ការនាំចេញទំនាក់ទំនង។"</string>
-    <string name="exporting_vcard_finished_toast" msgid="5995505525489290221">"បានបញ្ចប់ការនាំចេញទំនាក់ទំនង សូមចុចការជូនដំណឹងនោះដើម្បីចែករំលែកទំនាក់ទំនង"</string>
+    <string name="exporting_vcard_finished_toast" msgid="5995505525489290221">"បានបញ្ចប់ការនាំចេញទំនាក់ទំនង សូមចុចលើការជូនដំណឹង ដើម្បីចែករំលែកទំនាក់ទំនង"</string>
     <string name="touch_to_share_contacts" msgid="3237211496215699092">"ប៉ះដើម្បីចែករំលែកទំនាក់ទំនង"</string>
     <string name="exporting_vcard_canceled_title" msgid="6993607802553630980">"បាន​បោះបង់​ការ​នាំចេញ <xliff:g id="FILENAME">%s</xliff:g> ។"</string>
     <string name="exporting_contact_list_title" msgid="5663945499580026953">"កំពុង​នាំចេញ​ព័ត៌មាន​ទំនាក់ទំនង"</string>
@@ -220,7 +221,7 @@
     <string name="display_options_sort_list_by" msgid="8635268562263708102">"តម្រៀប​តាម"</string>
     <string name="display_options_sort_by_given_name" msgid="7775798046001047995">"នាម​ខ្លួន"</string>
     <string name="display_options_sort_by_family_name" msgid="8196947856299225342">"នាមត្រកូល"</string>
-    <string name="display_options_view_names_as" msgid="3232196224409242435">"ទ្រង់ទ្រាយ​ឈ្មោះ"</string>
+    <string name="display_options_view_names_as" msgid="3232196224409242435">"ទម្រង់​ឈ្មោះ"</string>
     <string name="display_options_view_given_name_first" msgid="7283772578267332801">"នាម​ខ្លួន​មុន"</string>
     <string name="display_options_view_family_name_first" msgid="8133167685885174166">"នាមត្រកូល​មុន"</string>
     <string name="default_editor_account" msgid="4338725881650654966">"គណនីលំនាំដើមសម្រាប់ទំនាក់ទំនងថ្មី"</string>

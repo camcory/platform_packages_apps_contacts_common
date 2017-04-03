@@ -98,11 +98,11 @@
     <string name="name_given" msgid="4153709115654909377">"ഫസ്റ്റ് നെയിം"</string>
     <string name="name_family" msgid="5317387657540738981">"ലാസ്റ്റ് നെയിം"</string>
     <string name="name_prefix" msgid="8219879405071462309">"പേര് പ്രിഫിക്‌സ്"</string>
-    <string name="name_middle" msgid="3951610314424632183">"പേരിന്റെ മധ്യഭാഗം"</string>
+    <string name="name_middle" msgid="3951610314424632183">"മിഡിൽ നെയിം"</string>
     <string name="name_suffix" msgid="5436984808550075931">"പേര് സഫിക്‌സ്"</string>
     <string name="name_phonetic" msgid="2249169131785620210">"ഉച്ചാരണപ്രകാരമുള്ള പേര്"</string>
     <string name="name_phonetic_given" msgid="2863316331175661852">"ഫസ്റ്റ് നെയിം"</string>
-    <string name="name_phonetic_middle" msgid="5970174427249235577">"പേരിന്റെ മധ്യഭാഗം"</string>
+    <string name="name_phonetic_middle" msgid="5970174427249235577">"മിഡിൽ നെയിം"</string>
     <string name="name_phonetic_family" msgid="1572398622239414464">"പേരിന്റെ അവസാന ഭാഗം"</string>
     <string name="phoneLabelsGroup" msgid="7913782787902007482">"ഫോണ്‍"</string>
     <string name="emailLabelsGroup" msgid="4696310712601184208">"ഇമെയിൽ"</string>
@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"SIM-ൽ നിന്ന് ഇമ്പോർട്ടുചെയ്യുക <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"SIM-ൽ നിന്ന് ഇമ്പോർട്ടുചെയ്യുക <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">".vcf ഫയലിൽ നിന്ന് ഇമ്പോർട്ടുചെയ്യൂ"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"vCard-ൽ നിന്ന്‌ കോൺടാക്‌റ്റുകൾ ഇമ്പോർട്ടുചെയ്യണോ?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"<xliff:g id="FILENAME">%s</xliff:g> എന്നത് ഇമ്പോർട്ടുചെയ്യുന്നത് റദ്ദാക്കണോ?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"<xliff:g id="FILENAME">%s</xliff:g> എന്നത് എക്‌സ്‌പോർട്ടുചെയ്യുന്നത് റദ്ദാക്കണോ?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"vCard ഡൗൺലോഡ്/അപ്‌ലോഡ് റദ്ദാക്കാനായില്ല"</string>
@@ -223,7 +224,7 @@
     <string name="display_options_view_names_as" msgid="3232196224409242435">"പേരിന്റെ ഫോർമാറ്റ്"</string>
     <string name="display_options_view_given_name_first" msgid="7283772578267332801">"ഫസ്റ്റ് നെയിം ആദ്യം"</string>
     <string name="display_options_view_family_name_first" msgid="8133167685885174166">"ലാസ്റ്റ് നെയിം ആദ്യം"</string>
-    <string name="default_editor_account" msgid="4338725881650654966">"പുതിയ കോൺടാക്റ്റുകൾക്കായുള്ള ഡിഫോൾട്ട് അക്കൗണ്ട്"</string>
+    <string name="default_editor_account" msgid="4338725881650654966">"പുതിയകോൺടാക്റ്റുകൾക്കുള്ള ഡിഫോൾട്ട് അക്കൗണ്ട്"</string>
     <string name="sync_contact_metadata_title" msgid="8322455849769727129">"കോൺടാക്റ്റ് മെറ്റാഡാറ്റ സമന്വയിപ്പിക്കുക [ഡോഗ്‌ഫുഡ്]"</string>
     <string name="sync_contact_metadata_dialog_title" msgid="4521648342253661374">"കോൺടാക്റ്റ് മെറ്റാഡാറ്റ സമന്വയിപ്പിക്കുക"</string>
     <string name="setting_about" msgid="3926137653588942297">"കോണ്‍ടാക്റ്റുകളെ കുറിച്ച്"</string>

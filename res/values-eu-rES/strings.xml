@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Inportatu SIM honetatik: <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Inportatu SIM honetatik: <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Inportatu .vcf fitxategitik"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"vCard fitxategitik inportatu nahi dituzu kontaktuak?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"<xliff:g id="FILENAME">%s</xliff:g> fitxategiaren inportazioa utzi?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"<xliff:g id="FILENAME">%s</xliff:g> fitxategiaren esportazioa utzi?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Ezin da vCard inportazioa/esportazioa utzi"</string>
@@ -185,7 +186,7 @@
     <string name="fail_reason_not_supported" msgid="388664373573337601">"Formatua ez da bateragarria."</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info" msgid="3179066075701123895">"Ezin izan da emandako vCard txartelaren fitxategien meta-informazioa bildu."</string>
     <string name="fail_reason_failed_to_read_files" msgid="9213844535907986665">"Ezin izan da fitxategi bat edo gehiago inportatu (%s)."</string>
-    <string name="exporting_vcard_finished_title" msgid="3581883972188707378">"Amaitu <xliff:g id="FILENAME">%s</xliff:g> esportatzen."</string>
+    <string name="exporting_vcard_finished_title" msgid="3581883972188707378">"Amaitu da <xliff:g id="FILENAME">%s</xliff:g> esportatzen."</string>
     <string name="exporting_vcard_finished_title_fallback" msgid="2953278060195308065">"Esportatu dira kontaktuak."</string>
     <string name="exporting_vcard_finished_toast" msgid="5995505525489290221">"Esportatu dira kontaktuak. Haiek partekatzeko, sakatu jakinarazpena."</string>
     <string name="touch_to_share_contacts" msgid="3237211496215699092">"Sakatu kontaktuak partekatzeko."</string>
@@ -238,8 +239,8 @@
     <string name="share_error" msgid="665756457151793108">"Ezin da kontaktua partekatu."</string>
     <string name="no_contact_to_share" msgid="5749367538191552509">"Ez dago parteka daitekeen kontakturik."</string>
     <string name="menu_search" msgid="7464453023659824700">"Bilatu"</string>
-    <string name="menu_contacts_filter" msgid="586356478145511794">"Bistaratzeko kontaktuak"</string>
-    <string name="activity_title_contacts_filter" msgid="7689519428197855166">"Bistaratzeko kontaktuak"</string>
+    <string name="menu_contacts_filter" msgid="586356478145511794">"Bistaratu beharreko kontaktuak"</string>
+    <string name="activity_title_contacts_filter" msgid="7689519428197855166">"Bistaratu beharrekoak"</string>
     <string name="custom_list_filter" msgid="582616656313514803">"Definitu ikuspegi pertsonalizatua"</string>
     <string name="hint_findContacts" msgid="28151707326753522">"Bilatu kontaktuak"</string>
     <string name="contactsFavoritesLabel" msgid="1222038757062409949">"Gogokoak"</string>

@@ -164,11 +164,12 @@
     <string name="listAllContactsInAccount" msgid="755499980092808715">"Konto <xliff:g id="NAME">%s</xliff:g> kontaktid"</string>
     <string name="listCustomView" msgid="1915154113477432033">"Kontaktid kohandatud vaates"</string>
     <string name="listSingleContact" msgid="8525131203887307088">"Üks kontakt"</string>
-    <string name="dialog_new_contact_account" msgid="32435918254518570">"Salvestage imporditud kontaktid kontole:"</string>
+    <string name="dialog_new_contact_account" msgid="32435918254518570">"Imporditud kontaktid salvestatakse kontole:"</string>
     <string name="import_from_sim" msgid="4749894687871835873">"Impordi SIM-kaardilt"</string>
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Importimine SIM-kaardilt <xliff:g id="SIM_NAME">^1</xliff:g> – <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Importimine SIM-kaardilt <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Importimine VCF-failist"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Kas importida kontaktid vCardist?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Kas tühistada faili <xliff:g id="FILENAME">%s</xliff:g> importimine?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Kas tühistada faili <xliff:g id="FILENAME">%s</xliff:g> eksportimine?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"vCardi impordi/ekspordi tühist. ebaõnn."</string>
@@ -269,7 +270,7 @@
       <item quantity="one"> <xliff:g id="TITLE_0">%1$s</xliff:g>. <xliff:g id="COUNT_1">%2$d</xliff:g> lugemata üksus. </item>
     </plurals>
     <string name="about_build_version" msgid="4221971683776635130">"Järguversioon"</string>
-    <string name="about_open_source_licenses" msgid="3224958101863814649">"Avatud lähtekoodiga litsentsid"</string>
+    <string name="about_open_source_licenses" msgid="3224958101863814649">"Avatud lähtekoodi litsentsid"</string>
     <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"Avatud lähtekoodiga tarkvara litsentsi üksikasjad"</string>
     <string name="about_privacy_policy" msgid="8458337666582973913">"Privaatsuseeskirjad"</string>
     <string name="about_terms_of_service" msgid="628537491496465267">"Teenusetingimused"</string>

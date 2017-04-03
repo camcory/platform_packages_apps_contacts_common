@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"იმპორტი SIM-იდან <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"იმპორტი SIM-იდან <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"იმპორტი .vcf ფაილიდან"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"გსურთ კონტაქტების იმპორტი vCard-იდან?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"გსურთ <xliff:g id="FILENAME">%s</xliff:g>-ის იმპორტის გაუქმება?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"გსურთ <xliff:g id="FILENAME">%s</xliff:g>-ის ექსპორტის გაუქმება?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"vCard-ის იმპორტი/ექსპორტი ვერ გაუქმდა"</string>
@@ -223,7 +224,7 @@
     <string name="display_options_view_names_as" msgid="3232196224409242435">"სახელის ფორმატი"</string>
     <string name="display_options_view_given_name_first" msgid="7283772578267332801">"ჯერ სახელი"</string>
     <string name="display_options_view_family_name_first" msgid="8133167685885174166">"ჯერ გვარი"</string>
-    <string name="default_editor_account" msgid="4338725881650654966">"ნაგულისხმევი ანგარიში ახალი კონტაქტებისთვის"</string>
+    <string name="default_editor_account" msgid="4338725881650654966">"ახალი კონტაქტების ნაგულისხმ.ანგარიში"</string>
     <string name="sync_contact_metadata_title" msgid="8322455849769727129">"კონტაქტების მეტამონაცემების სინქრონიზაცია (Dogfood-ვერსია)"</string>
     <string name="sync_contact_metadata_dialog_title" msgid="4521648342253661374">"კონტაქტების მეტამონაცემების სინქრონიზაცია"</string>
     <string name="setting_about" msgid="3926137653588942297">"Contacts-ის შესახებ"</string>
@@ -240,7 +241,7 @@
     <string name="menu_search" msgid="7464453023659824700">"ძიება"</string>
     <string name="menu_contacts_filter" msgid="586356478145511794">"ნაჩვენები კონტაქტები"</string>
     <string name="activity_title_contacts_filter" msgid="7689519428197855166">"ნაჩვენები კონტაქტები"</string>
-    <string name="custom_list_filter" msgid="582616656313514803">"მორგებული ხედის განსაზღვრა"</string>
+    <string name="custom_list_filter" msgid="582616656313514803">"მორგებ.ხედის განსაზღვრა"</string>
     <string name="hint_findContacts" msgid="28151707326753522">"კონტაქტების პოვნა"</string>
     <string name="contactsFavoritesLabel" msgid="1222038757062409949">"რჩეულები"</string>
     <string name="listTotalAllContactsZero" msgid="6041341919823872732">"კონტაქტები არ არის."</string>

@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"ဆင်းမ်ကဒ်မှ သွင်းယူရန် <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"ဆင်းမ်ကဒ်မှ သွင်းယူရန် <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">".vcf ဖိုင်မှသွင်းမည်"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"လိပ်စာကဒ်မှ အဆက်အသွယ်များကို တင်သွင်းမလား။"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"<xliff:g id="FILENAME">%s</xliff:g> ကို အထဲသို့သွင်းခြင်းအား ရပ်တန့်မလား?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"<xliff:g id="FILENAME">%s</xliff:g> ကိုအပြင်သို့ထုတ်ခြင်းအား ရပ်တန့်မလား?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"လိပ်စာကဒ် အသွင်း၊အထုတ်ကို ရပ်၍မရပါ"</string>

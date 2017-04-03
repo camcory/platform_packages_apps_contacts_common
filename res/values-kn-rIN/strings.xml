@@ -160,19 +160,20 @@
     <string name="display_warn_remove_ungrouped" msgid="7297678747857509619">"ಸಿಂಕ್‌ನಿಂದ \"<xliff:g id="GROUP">%s</xliff:g>\" ಅನ್ನು ತೆಗೆದುಹಾಕುವುದರಿಂದ ಸಿಂಕ್‌ನಿಂದ ಯಾವುದೇ ಗುಂಪು ಮಾಡದಿರುವ ಸಂಪರ್ಕಗಳನ್ನು ಸಹ ತೆಗೆದುಹಾಕುತ್ತದೆ."</string>
     <string name="savingDisplayGroups" msgid="6863012138107446030">"ಪ್ರದರ್ಶನ ಆಯ್ಕೆಗಳನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ..."</string>
     <string name="menu_done" msgid="32470053723443112">"ಮುಗಿದಿದೆ"</string>
-    <string name="menu_doNotSave" msgid="6012426160993364871">"ರದ್ದುಮಾಡು"</string>
+    <string name="menu_doNotSave" msgid="6012426160993364871">"ರದ್ದುಮಾಡಿ"</string>
     <string name="listAllContactsInAccount" msgid="755499980092808715">"<xliff:g id="NAME">%s</xliff:g> ನಲ್ಲಿ ಸಂಪರ್ಕಗಳು"</string>
     <string name="listCustomView" msgid="1915154113477432033">"ಕಸ್ಟಮ್‌ ವೀಕ್ಷಣೆಯಲ್ಲಿನ ಸಂಪರ್ಕಗಳು"</string>
     <string name="listSingleContact" msgid="8525131203887307088">"ಏಕೈಕ ಸಂಪರ್ಕ"</string>
-    <string name="dialog_new_contact_account" msgid="32435918254518570">"ಆಮದು ಮಾಡಲಾದ ಸಂಪರ್ಕಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸಿ:"</string>
+    <string name="dialog_new_contact_account" msgid="32435918254518570">"ಆಮದಾದ ಸಂಪರ್ಕಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸಿ:"</string>
     <string name="import_from_sim" msgid="4749894687871835873">"ಸಿಮ್‌ ಕಾರ್ಡ್‌ನಿಂದ ಆಮದು ಮಾಡಿ"</string>
     <string name="import_from_sim_summary" msgid="2306434118233541675">"<xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g> SIM ನಿಂದ ಆಮದು ಮಾಡಿ"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"<xliff:g id="SIM_NAME">%1$s</xliff:g> SIM ನಿಂದ ಆಮದು ಮಾಡಿ"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">".vcf ಫೈಲ್‌ನಿಂದ ಆಮದು ಮಾಡಿ"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"vCard ನಿಂದ ಸಂಪರ್ಕಗಳನ್ನು ಆಮದುಮಾಡುವುದೇ?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"<xliff:g id="FILENAME">%s</xliff:g> ಆಮದು ಮಾಡುವುದನ್ನು ರದ್ದುಗೊಳಿಸುವುದೇ?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"<xliff:g id="FILENAME">%s</xliff:g> ಅನ್ನು ರಫ್ತು ಮಾಡುವುದನ್ನು ರದ್ದುಗೊಳಿಸುವುದೇ?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"vCard ಆಮದು/ರಫ್ತು ಮಾಡುವುದನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"</string>
-    <string name="fail_reason_unknown" msgid="8541352164960008557">"ಅಜ್ಞಾತ ದೋಷ."</string>
+    <string name="fail_reason_unknown" msgid="8541352164960008557">"ಅಪರಿಚಿತ ದೋಷ."</string>
     <string name="fail_reason_could_not_open_file" msgid="7041148341788958325">"\"<xliff:g id="FILE_NAME">%s</xliff:g>\" ಅನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ: <xliff:g id="EXACT_REASON">%s</xliff:g>."</string>
     <string name="fail_reason_could_not_initialize_exporter" msgid="1231982631020480035">"ರಫ್ತುದಾರರನ್ನು ಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ: \"<xliff:g id="EXACT_REASON">%s</xliff:g>\"."</string>
     <string name="fail_reason_no_exportable_contact" msgid="3717046989062541369">"ಯಾವುದೇ ರಫ್ತುಮಾಡಬಹುದಾದ ಸಂಪರ್ಕವಿಲ್ಲ."</string>
@@ -217,7 +218,7 @@
     <string name="caching_vcard_title" msgid="9185299351381102305">"ಸಂಗ್ರಹಿಸಲಾಗುತ್ತಿದೆ"</string>
     <string name="progress_notifier_message" msgid="359931715339778107">"<xliff:g id="CURRENT_NUMBER">%s</xliff:g>/<xliff:g id="TOTAL_NUMBER">%s</xliff:g> ಆಮದು ಮಾಡಲಾಗುತ್ತಿದೆ: <xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="export_to_vcf_file" product="default" msgid="4142192068495589925">".vcf ಫೈಲ್‌ಗೆ ರಫ್ತು ಮಾಡಿ"</string>
-    <string name="display_options_sort_list_by" msgid="8635268562263708102">"ಈ ಪ್ರಕಾರ ವಿಂಗಡಿಸು"</string>
+    <string name="display_options_sort_list_by" msgid="8635268562263708102">"ಈ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ"</string>
     <string name="display_options_sort_by_given_name" msgid="7775798046001047995">"ಮೊದಲ ಹೆಸರು"</string>
     <string name="display_options_sort_by_family_name" msgid="8196947856299225342">"ಕೊನೆಯ ಹೆಸರು"</string>
     <string name="display_options_view_names_as" msgid="3232196224409242435">"ಹೆಸರಿನ ಫಾರ್ಮ್ಯಾಟ್‌"</string>
@@ -237,7 +238,7 @@
     <string name="dialog_import" msgid="5177004290082451296">"ಸಂಪರ್ಕಗಳನ್ನು ಆಮದು ಮಾಡಿ"</string>
     <string name="share_error" msgid="665756457151793108">"ಈ ಸಂಪರ್ಕವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ."</string>
     <string name="no_contact_to_share" msgid="5749367538191552509">"ಹಂಚಿಕೊಳ್ಳಲು ಯಾವುದೇ ಸಂಪರ್ಕಗಳಿಲ್ಲ."</string>
-    <string name="menu_search" msgid="7464453023659824700">"ಹುಡುಕು"</string>
+    <string name="menu_search" msgid="7464453023659824700">"ಹುಡುಕಿ"</string>
     <string name="menu_contacts_filter" msgid="586356478145511794">"ಪ್ರದರ್ಶನ ಸಂಪರ್ಕಗಳು"</string>
     <string name="activity_title_contacts_filter" msgid="7689519428197855166">"ಪ್ರದರ್ಶನ ಸಂಪರ್ಕಗಳು"</string>
     <string name="custom_list_filter" msgid="582616656313514803">"ಕಸ್ಟಮ್ ವೀಕ್ಷಣೆ ವಿವರಿಸಿ"</string>

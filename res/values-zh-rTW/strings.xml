@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"從 SIM 卡 <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g> 匯入"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"從 SIM 卡 <xliff:g id="SIM_NAME">%1$s</xliff:g> 匯入"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"從 .vcf 檔案匯入"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"要從 vCard 匯入聯絡人嗎？"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"確定要取消匯入 <xliff:g id="FILENAME">%s</xliff:g>？"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"確定要取消匯出 <xliff:g id="FILENAME">%s</xliff:g>？"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"無法取消匯入/匯出 vCard"</string>

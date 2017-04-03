@@ -117,7 +117,7 @@
     <string name="ghostData_title" msgid="6221293237772204604">"Гарчиг"</string>
     <string name="label_notes" msgid="3997277594846722699">"Тэмдэглэл"</string>
     <string name="label_sip_address" msgid="3754551597798479318">"SIP"</string>
-    <string name="websiteLabelsGroup" msgid="8620657380165071493">"Вебсайт"</string>
+    <string name="websiteLabelsGroup" msgid="8620657380165071493">"Вэбсайт"</string>
     <string name="groupsLabel" msgid="3574316547053047551">"Бүлгэмүүд"</string>
     <string name="email_home" msgid="2230967805906450693">"Гэр рүү имэйлдэх"</string>
     <string name="email_mobile" msgid="7532438378678903685">"Гар утас руу имэйлдэх"</string>
@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>-с импортлох"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>-с импортлох"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">".vcf файлаас импортлох"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"vCard-с харилцагчдыг импорт хийх үү?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"<xliff:g id="FILENAME">%s</xliff:g>-г импорт хийхийг цуцлах уу?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"<xliff:g id="FILENAME">%s</xliff:g>-г экспорт хийхийг цуцлах уу?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"vCard импорт/экспорт хийхийг цуцлаж чадсангүй"</string>

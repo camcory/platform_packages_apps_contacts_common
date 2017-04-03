@@ -36,8 +36,8 @@
     <string name="call_radio" msgid="9055749313292712021">"রেডিওর ফোন নম্বরে কল করুন"</string>
     <string name="call_telex" msgid="2909886619224843563">"টেলেক্স নম্বরে কল করুন"</string>
     <string name="call_tty_tdd" msgid="6704940636171078852">"TTY/TDD নম্বরে কল করুন"</string>
-    <string name="call_work_mobile" msgid="4408630608955148641">"কর্মক্ষেত্রের মোবাইল নম্বরে কল করুন"</string>
-    <string name="call_work_pager" msgid="3036932765279753793">"কর্মক্ষেত্রের পেজার নম্বরে কল করুন"</string>
+    <string name="call_work_mobile" msgid="4408630608955148641">"অফিসের মোবাইল নম্বরে কল করুন"</string>
+    <string name="call_work_pager" msgid="3036932765279753793">"অফিসের পেজার নম্বরে কল করুন"</string>
     <string name="call_assistant" msgid="5188990854852312696">"<xliff:g id="ASSISTANT">%s</xliff:g> এ কল করুন"</string>
     <string name="call_mms" msgid="8998771923464696960">"MMS নম্বরে কল করুন"</string>
     <string name="call_by_shortcut" msgid="4053430514293064454">"<xliff:g id="CONTACT_NAME">%s</xliff:g> (কল)"</string>
@@ -166,9 +166,10 @@
     <string name="listSingleContact" msgid="8525131203887307088">"একক পরিচিতি"</string>
     <string name="dialog_new_contact_account" msgid="32435918254518570">"আমদানি করা পরিচিতিগুলি এতে সংরক্ষণ করুন:"</string>
     <string name="import_from_sim" msgid="4749894687871835873">"সিম কার্ড থেকে আমদানি করুন"</string>
-    <string name="import_from_sim_summary" msgid="2306434118233541675">"<xliff:g id="SIM_NAME">^1</xliff:g> SIM থেকে আমদানি করুন - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
-    <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"<xliff:g id="SIM_NAME">%1$s</xliff:g> SIM থেকে আমদানি করুন"</string>
+    <string name="import_from_sim_summary" msgid="2306434118233541675">"<xliff:g id="SIM_NAME">^1</xliff:g> সিম থেকে আমদানি করুন - <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
+    <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"<xliff:g id="SIM_NAME">%1$s</xliff:g> সিম থেকে আমদানি করুন"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">".vcf ফাইল থেকে আমদানি করুন"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"vCard থেকে পরিচিতিগুলি আমদানি করবেন?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"<xliff:g id="FILENAME">%s</xliff:g> এর আমদানি বাতিল করবেন?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"<xliff:g id="FILENAME">%s</xliff:g> এর রপ্তানি বাতিল করবেন?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"vCard এর আমদানি/রপ্তানি বাতিল করা যায়নি"</string>

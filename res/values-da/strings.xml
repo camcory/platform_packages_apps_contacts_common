@@ -36,7 +36,7 @@
     <string name="call_radio" msgid="9055749313292712021">"Ring til radio"</string>
     <string name="call_telex" msgid="2909886619224843563">"Ring til telex"</string>
     <string name="call_tty_tdd" msgid="6704940636171078852">"Ring til TTY/TDD"</string>
-    <string name="call_work_mobile" msgid="4408630608955148641">"Ring til arbejdsmobiltelefon"</string>
+    <string name="call_work_mobile" msgid="4408630608955148641">"Ring til arbejdsmobil"</string>
     <string name="call_work_pager" msgid="3036932765279753793">"Ring til personsøger på arbejdet"</string>
     <string name="call_assistant" msgid="5188990854852312696">"Ring til <xliff:g id="ASSISTANT">%s</xliff:g>"</string>
     <string name="call_mms" msgid="8998771923464696960">"Ring til mms"</string>
@@ -58,7 +58,7 @@
     <string name="sms_radio" msgid="8750339218480745940">"Send sms til radio"</string>
     <string name="sms_telex" msgid="5469333785775443999">"Send sms til telex"</string>
     <string name="sms_tty_tdd" msgid="5057886576150816002">"Send sms til TTY/TDD"</string>
-    <string name="sms_work_mobile" msgid="8426872094268475047">"Send sms til arbejdsmobiltelefon"</string>
+    <string name="sms_work_mobile" msgid="8426872094268475047">"Send sms til arbejdsmobil"</string>
     <string name="sms_work_pager" msgid="499303540738557836">"Send sms til personsøger på arbejdet"</string>
     <string name="sms_assistant" msgid="2677586547377136683">"Send sms til <xliff:g id="ASSISTANT">%s</xliff:g>"</string>
     <string name="sms_mms" msgid="4887206338311086612">"Send sms til mms"</string>
@@ -159,7 +159,7 @@
     <string name="display_more_groups" msgid="6304997485733158224">"Flere grupper..."</string>
     <string name="display_warn_remove_ungrouped" msgid="7297678747857509619">"Hvis du fjerner \"<xliff:g id="GROUP">%s</xliff:g>\" fra synkroniseringen, fjernes alle ugrupperede kontaktpersoner fra synkroniseringen."</string>
     <string name="savingDisplayGroups" msgid="6863012138107446030">"Gemmer valgmuligheder for visning…"</string>
-    <string name="menu_done" msgid="32470053723443112">"Færdig"</string>
+    <string name="menu_done" msgid="32470053723443112">"Udfør"</string>
     <string name="menu_doNotSave" msgid="6012426160993364871">"Annuller"</string>
     <string name="listAllContactsInAccount" msgid="755499980092808715">"Kontaktpersoner i <xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="listCustomView" msgid="1915154113477432033">"Kontakter i tilpasset visning"</string>
@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Importér fra SIM <xliff:g id="SIM_NAME">^1</xliff:g> – <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Importér fra SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Importér fra .vcf-fil"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Vil du importere kontaktpersoner fra vCard?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Vil du annullere importen af <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Vil du annullere eksporten af <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Import/eksport af vCard kunne ikke annulleres"</string>
@@ -200,7 +201,7 @@
     <string name="importing_vcard_description" msgid="7206609625359484356">"Importerer <xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="reading_vcard_failed_title" msgid="4360989450476024034">"Dataene på dette vCard kunne ikke læses"</string>
     <string name="reading_vcard_canceled_title" msgid="1290217818311955708">"Læsning af vCard-data blev annulleret"</string>
-    <string name="importing_vcard_finished_title" msgid="5590676758277628951">"Import af vCard afsluttet <xliff:g id="FILENAME">%s</xliff:g>"</string>
+    <string name="importing_vcard_finished_title" msgid="5590676758277628951">"vCard-filen <xliff:g id="FILENAME">%s</xliff:g> er importeret"</string>
     <string name="importing_vcard_canceled_title" msgid="556913863250769870">"Import af <xliff:g id="FILENAME">%s</xliff:g> blev annulleret"</string>
     <string name="vcard_import_will_start_message" msgid="7184603116300604514">"<xliff:g id="FILENAME">%s</xliff:g> importeres om et øjeblik."</string>
     <string name="vcard_import_will_start_message_with_default_name" msgid="2560192057642180334">"Filen importeres inden længe."</string>
@@ -245,7 +246,7 @@
     <string name="contactsFavoritesLabel" msgid="1222038757062409949">"Foretrukne"</string>
     <string name="listTotalAllContactsZero" msgid="6041341919823872732">"Ingen kontaktpersoner."</string>
     <string name="listTotalAllContactsZeroCustom" msgid="5661794891640163617">"Ingen synlige kontaktpersoner."</string>
-    <string name="listTotalAllContactsZeroStarred" msgid="2747107662985362061">"Der er ingen favoritter"</string>
+    <string name="listTotalAllContactsZeroStarred" msgid="2747107662985362061">"Der er ingen foretrukne"</string>
     <string name="listTotalAllContactsZeroGroup" msgid="7450331854661098879">"Ingen kontaktpersoner i <xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="menu_clear_frequents" msgid="8492322695770647639">"Ryd hyppige"</string>
     <string name="menu_select_sim" msgid="7814841439832447299">"Vælg SIM-kort"</string>

@@ -171,6 +171,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Importuoti iš SIM kortelės „<xliff:g id="SIM_NAME">^1</xliff:g>“ – <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Importuoti iš SIM kortelės „<xliff:g id="SIM_NAME">%1$s</xliff:g>“"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Importuoti iš VCF failo"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Importuoti kontaktus iš „vCard“?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Atšaukti „<xliff:g id="FILENAME">%s</xliff:g>“ importavimą?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Atšaukti „<xliff:g id="FILENAME">%s</xliff:g>“ eksportavimą?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Nepav. atš. el. viz. kort. imp. / eksp."</string>

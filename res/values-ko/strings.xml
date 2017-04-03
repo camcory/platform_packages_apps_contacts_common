@@ -169,6 +169,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"SIM <xliff:g id="SIM_NAME">^1</xliff:g> - <xliff:g id="SIM_NUMBER">^2</xliff:g>에서 가져오기"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"SIM <xliff:g id="SIM_NAME">%1$s</xliff:g>에서 가져오기"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">".VCF 파일에서 가져오기"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"vCard에서 연락처를 가져오시겠습니까?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"<xliff:g id="FILENAME">%s</xliff:g> 가져오기를 취소하시겠습니까?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"<xliff:g id="FILENAME">%s</xliff:g> 내보내기를 취소하시겠습니까?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"vCard 가져오기/내보내기를 취소하지 못했습니다."</string>
@@ -271,7 +272,7 @@
     <string name="about_build_version" msgid="4221971683776635130">"빌드 버전"</string>
     <string name="about_open_source_licenses" msgid="3224958101863814649">"오픈소스 라이선스"</string>
     <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"오픈소스 소프트웨어에 대한 라이선스 세부정보"</string>
-    <string name="about_privacy_policy" msgid="8458337666582973913">"개인정보취급방침"</string>
+    <string name="about_privacy_policy" msgid="8458337666582973913">"개인정보처리방침"</string>
     <string name="about_terms_of_service" msgid="628537491496465267">"서비스 약관"</string>
     <string name="activity_title_licenses" msgid="7812517458691564230">"오픈소스 라이선스"</string>
     <string name="url_open_error_toast" msgid="7557601281695424805">"URL을 열지 못했습니다."</string>

@@ -29,7 +29,7 @@
     <string name="call_other" msgid="4472141328347894937">"Volať"</string>
     <string name="call_callback" msgid="687494744634190411">"Volať na číslo spätného volania"</string>
     <string name="call_car" msgid="9078083109758282133">"Volať na telefón v aute"</string>
-    <string name="call_company_main" msgid="8768047233970315359">"Volať firme (hlavné číslo)"</string>
+    <string name="call_company_main" msgid="8768047233970315359">"Volať firme (hlavné)"</string>
     <string name="call_isdn" msgid="3342482563847537747">"Volať na číslo ISDN"</string>
     <string name="call_main" msgid="4640261071249938558">"Volať na hlavné číslo"</string>
     <string name="call_other_fax" msgid="2536328553125487877">"Volať na fax"</string>
@@ -51,7 +51,7 @@
     <string name="sms_other" msgid="910895193552957097">"Poslať správu"</string>
     <string name="sms_callback" msgid="728414485478941361">"Poslať správu na číslo spätného volania"</string>
     <string name="sms_car" msgid="8543669230270954512">"Poslať správu na telefón v aute"</string>
-    <string name="sms_company_main" msgid="5441902128445061862">"Poslať správu do firmy (hlavné číslo)"</string>
+    <string name="sms_company_main" msgid="5441902128445061862">"Poslať správu firme (hlavné)"</string>
     <string name="sms_isdn" msgid="7142483128948042667">"Poslať správu na číslo ISDN"</string>
     <string name="sms_main" msgid="6815987840926184815">"Poslať správu na hlavné číslo"</string>
     <string name="sms_other_fax" msgid="8649822154879781466">"Poslať správu na fax"</string>
@@ -100,11 +100,11 @@
     <string name="name_given" msgid="4153709115654909377">"Krstné meno"</string>
     <string name="name_family" msgid="5317387657540738981">"Priezvisko"</string>
     <string name="name_prefix" msgid="8219879405071462309">"Titul pred menom"</string>
-    <string name="name_middle" msgid="3951610314424632183">"Stredné meno"</string>
+    <string name="name_middle" msgid="3951610314424632183">"Druhé meno"</string>
     <string name="name_suffix" msgid="5436984808550075931">"Titul za menom"</string>
     <string name="name_phonetic" msgid="2249169131785620210">"Meno (foneticky)"</string>
-    <string name="name_phonetic_given" msgid="2863316331175661852">"Krstné meno (foneticky)"</string>
-    <string name="name_phonetic_middle" msgid="5970174427249235577">"Stredné meno (foneticky)"</string>
+    <string name="name_phonetic_given" msgid="2863316331175661852">"Meno (foneticky)"</string>
+    <string name="name_phonetic_middle" msgid="5970174427249235577">"Druhé meno (foneticky)"</string>
     <string name="name_phonetic_family" msgid="1572398622239414464">"Priezvisko (foneticky)"</string>
     <string name="phoneLabelsGroup" msgid="7913782787902007482">"Telefón"</string>
     <string name="emailLabelsGroup" msgid="4696310712601184208">"E-mail"</string>
@@ -166,17 +166,18 @@
     <string name="listAllContactsInAccount" msgid="755499980092808715">"Kontakty v účte <xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="listCustomView" msgid="1915154113477432033">"Kontakty vo vlastnom zobrazení"</string>
     <string name="listSingleContact" msgid="8525131203887307088">"Jednotlivý kontakt"</string>
-    <string name="dialog_new_contact_account" msgid="32435918254518570">"Účet na ukladanie importovaných kontaktov:"</string>
+    <string name="dialog_new_contact_account" msgid="32435918254518570">"Účet na ukladanie importovaných kontaktov"</string>
     <string name="import_from_sim" msgid="4749894687871835873">"Importovať zo SIM karty"</string>
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Importovať zo SIM karty <xliff:g id="SIM_NAME">^1</xliff:g> – <xliff:g id="SIM_NUMBER">^2</xliff:g>"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Importovať zo SIM karty <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Importovať zo súboru .vcf"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Chcete importovať kontakty zo súboru vizitiek vCard?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Zrušiť importovanie súboru <xliff:g id="FILENAME">%s</xliff:g>?"</string>
-    <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Zrušiť exportovanie súboru <xliff:g id="FILENAME">%s</xliff:g>?"</string>
+    <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Zrušiť export vizitky <xliff:g id="FILENAME">%s</xliff:g>?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Import alebo export vizitky nie je možné zrušiť"</string>
     <string name="fail_reason_unknown" msgid="8541352164960008557">"Neznáma chyba."</string>
     <string name="fail_reason_could_not_open_file" msgid="7041148341788958325">"Súbor „<xliff:g id="FILE_NAME">%s</xliff:g>“ sa nepodarilo otvoriť: <xliff:g id="EXACT_REASON">%s</xliff:g>"</string>
-    <string name="fail_reason_could_not_initialize_exporter" msgid="1231982631020480035">"Nástroj na exportovanie sa nepodarilo spustiť: „<xliff:g id="EXACT_REASON">%s</xliff:g>“."</string>
+    <string name="fail_reason_could_not_initialize_exporter" msgid="1231982631020480035">"Nástroj na export sa nepodarilo spustiť: <xliff:g id="EXACT_REASON">%s</xliff:g>."</string>
     <string name="fail_reason_no_exportable_contact" msgid="3717046989062541369">"Nedá sa exportovať žiadny kontakt."</string>
     <string name="missing_required_permission" msgid="3120850759881656369">"Zakázali ste požadované povolenie."</string>
     <string name="fail_reason_error_occurred_during_export" msgid="8426833603664168716">"Počas exportovania sa vyskytla chyba: „<xliff:g id="EXACT_REASON">%s</xliff:g>“."</string>
@@ -187,30 +188,30 @@
     <string name="fail_reason_not_supported" msgid="388664373573337601">"Formát nie je podporovaný."</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info" msgid="3179066075701123895">"Metaúdaje daných súborov vizitiek vCard sa nepodarilo zhromaždiť."</string>
     <string name="fail_reason_failed_to_read_files" msgid="9213844535907986665">"Nepodaril sa import jedného alebo viacerých súborov (%s)."</string>
-    <string name="exporting_vcard_finished_title" msgid="3581883972188707378">"Exportovanie súboru <xliff:g id="FILENAME">%s</xliff:g> bolo dokončené."</string>
-    <string name="exporting_vcard_finished_title_fallback" msgid="2953278060195308065">"Exportovanie kontaktov bolo dokončené"</string>
-    <string name="exporting_vcard_finished_toast" msgid="5995505525489290221">"Exportovanie kontaktov sa skončilo. Zdieľajte ich kliknutím na upozornenie."</string>
+    <string name="exporting_vcard_finished_title" msgid="3581883972188707378">"Export vizitky <xliff:g id="FILENAME">%s</xliff:g> bol dokončený"</string>
+    <string name="exporting_vcard_finished_title_fallback" msgid="2953278060195308065">"Export kontaktov bol dokončený"</string>
+    <string name="exporting_vcard_finished_toast" msgid="5995505525489290221">"Export kontaktov bol dokončený. Kliknutím na upozornenie ich môžete zdieľať."</string>
     <string name="touch_to_share_contacts" msgid="3237211496215699092">"Klepnutím zdieľajte kontakty."</string>
-    <string name="exporting_vcard_canceled_title" msgid="6993607802553630980">"Exportovanie súboru <xliff:g id="FILENAME">%s</xliff:g> bolo zrušené."</string>
+    <string name="exporting_vcard_canceled_title" msgid="6993607802553630980">"Export vizitky <xliff:g id="FILENAME">%s</xliff:g> bol zrušený"</string>
     <string name="exporting_contact_list_title" msgid="5663945499580026953">"Export údajov kontaktov"</string>
     <string name="exporting_contact_list_message" msgid="141905615542638683">"Kontaktné informácie sa exportujú."</string>
     <string name="composer_failed_to_get_database_infomation" msgid="7801276776746351694">"Nepodarilo sa získať informácie z databázy."</string>
     <string name="composer_has_no_exportable_contact" msgid="7063040740576745307">"Nenašli sa žiadne kontakty, ktoré by bolo možné exportovať. Ak v telefóne skutočne máte kontakty, problém môže byť spôsobený tým, že niektorí poskytovatelia údajov neumožňujú export kontaktov z telefónu."</string>
     <string name="composer_not_initialized" msgid="6514403866246950877">"Nástroj na tvorbu vizitiek vCard sa nespustil správne."</string>
-    <string name="exporting_contact_failed_title" msgid="6059039606302373945">"Exportovanie zlyhalo"</string>
+    <string name="exporting_contact_failed_title" msgid="6059039606302373945">"Export zlyhal"</string>
     <string name="exporting_contact_failed_message" msgid="3922498776695333328">"Údaje o kontaktoch sa neexportovali.\nDôvod: „<xliff:g id="FAIL_REASON">%s</xliff:g>“"</string>
     <string name="importing_vcard_description" msgid="7206609625359484356">"Importuje sa <xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="reading_vcard_failed_title" msgid="4360989450476024034">"Nepodarilo sa prečítať údaje vizitky vCard"</string>
     <string name="reading_vcard_canceled_title" msgid="1290217818311955708">"Čítanie údajov vizitky vCard bolo zrušené"</string>
-    <string name="importing_vcard_finished_title" msgid="5590676758277628951">"Import vizitky vCard <xliff:g id="FILENAME">%s</xliff:g> bol dokončený"</string>
+    <string name="importing_vcard_finished_title" msgid="5590676758277628951">"Import vizitky <xliff:g id="FILENAME">%s</xliff:g> bol dokončený"</string>
     <string name="importing_vcard_canceled_title" msgid="556913863250769870">"Importovanie súboru <xliff:g id="FILENAME">%s</xliff:g> bolo zrušené"</string>
     <string name="vcard_import_will_start_message" msgid="7184603116300604514">"Vizitka <xliff:g id="FILENAME">%s</xliff:g> bude čoskoro importovaná."</string>
     <string name="vcard_import_will_start_message_with_default_name" msgid="2560192057642180334">"Súbor bude čoskoro importovaný."</string>
     <string name="vcard_import_request_rejected_message" msgid="5209363425953891316">"Žiadosť o import vizitky vCard bola odmietnutá. Skúste to znova neskôr."</string>
     <string name="vcard_export_will_start_message" msgid="2168853666316526278">"Vizitka <xliff:g id="FILENAME">%s</xliff:g> bude čoskoro exportovaná."</string>
     <string name="vcard_export_will_start_message_fallback" msgid="6418767460851707308">"Súbor bude čoskoro exportovaný."</string>
-    <string name="contacts_export_will_start_message" msgid="4527597765334949574">"Kontakty budú čoskoro exportované."</string>
-    <string name="vcard_export_request_rejected_message" msgid="8044599716727705282">"Žiadosť o exportovanie vizitky vCard bola odmietnutá. Skúste to znova neskôr."</string>
+    <string name="contacts_export_will_start_message" msgid="4527597765334949574">"Kontakty budú čoskoro exportované"</string>
+    <string name="vcard_export_request_rejected_message" msgid="8044599716727705282">"Žiadosť o export vizitky bola odmietnutá. Skúste to znova neskôr."</string>
     <string name="vcard_unknown_filename" msgid="4832657686149881554">"kontakt"</string>
     <string name="caching_vcard_message" msgid="6635485116655518520">"Prebieha načítavanie vizitiek vCard do vyrovnávacej pamäte miestneho dočasného úložiska. Samotné importovanie začne o chvíľu."</string>
     <string name="vcard_import_failed" msgid="4105296876768072508">"Vizitku vCard sa nepodarilo importovať."</string>

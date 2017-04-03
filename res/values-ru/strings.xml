@@ -171,6 +171,7 @@
     <string name="import_from_sim_summary" msgid="2306434118233541675">"Импорт с SIM-карты <xliff:g id="SIM_NAME">^1</xliff:g> (<xliff:g id="SIM_NUMBER">^2</xliff:g>)"</string>
     <string name="import_from_sim_summary_no_number" msgid="8498561004799710237">"Импорт с SIM-карты <xliff:g id="SIM_NAME">%1$s</xliff:g>"</string>
     <string name="import_from_vcf_file" product="default" msgid="1381675161522633950">"Импорт из файла VCF"</string>
+    <string name="import_from_vcf_file_confirmation_message" product="default" msgid="2490098779904759398">"Импортировать контакты из vCard?"</string>
     <string name="cancel_import_confirmation_message" msgid="7764915400478970495">"Отменить импорт файла \"<xliff:g id="FILENAME">%s</xliff:g>\"?"</string>
     <string name="cancel_export_confirmation_message" msgid="4063783315931861656">"Отменить экспорт файла \"<xliff:g id="FILENAME">%s</xliff:g>\"?"</string>
     <string name="cancel_vcard_import_or_export_failed" msgid="7450212880694781527">"Не удалось отменить импорт/экспорт vCard"</string>
@@ -273,7 +274,7 @@
       <item quantity="other"><xliff:g id="TITLE_2">%1$s</xliff:g>. <xliff:g id="COUNT_3">%2$d</xliff:g> непрочитанного элемента. </item>
     </plurals>
     <string name="about_build_version" msgid="4221971683776635130">"Версия сборки"</string>
-    <string name="about_open_source_licenses" msgid="3224958101863814649">"Лицензии на ПО с открытым исходным кодом"</string>
+    <string name="about_open_source_licenses" msgid="3224958101863814649">"Лицензии открытого ПО"</string>
     <string name="about_open_source_licenses_summary" msgid="3009343539281606716">"Сведения о лицензиях на ПО с открытым исходным кодом"</string>
     <string name="about_privacy_policy" msgid="8458337666582973913">"Политика конфиденциальности"</string>
     <string name="about_terms_of_service" msgid="628537491496465267">"Условия использования"</string>
